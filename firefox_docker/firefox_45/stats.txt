@@ -1,164 +1,124 @@
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        9.81%     207.2MiB / 13.59GiB   1.49%     0B / 0B         0B / 13.4MB       56
-4c8ac5212646   naughty_kare        0.03%     5.293MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     91.79MiB / 13.59GiB   0.66%     422kB / 582kB   21.7MB / 16.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        18.99%    210.9MiB / 13.59GiB   1.52%     0B / 0B         0B / 14MB         57
-4c8ac5212646   naughty_kare        0.04%     5.293MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     91.79MiB / 13.59GiB   0.66%     423kB / 582kB   21.7MB / 16.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        33.18%    191.1MiB / 13.59GiB   1.37%     0B / 0B         0B / 27.2MB       58
-4c8ac5212646   naughty_kare        0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.70%     91.79MiB / 13.59GiB   0.66%     425kB / 583kB   21.7MB / 16.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        22.45%    186.5MiB / 13.59GiB   1.34%     0B / 0B         0B / 28.3MB       58
-4c8ac5212646   naughty_kare        0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     91.84MiB / 13.59GiB   0.66%     427kB / 583kB   21.7MB / 16.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        32.74%    184.7MiB / 13.59GiB   1.33%     0B / 0B         0B / 30.4MB       58
-4c8ac5212646   naughty_kare        0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     91.84MiB / 13.59GiB   0.66%     428kB / 584kB   21.7MB / 16.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        24.98%    179.5MiB / 13.59GiB   1.29%     0B / 0B         0B / 32.4MB       58
-4c8ac5212646   naughty_kare        0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.60%     91.84MiB / 13.59GiB   0.66%     430kB / 585kB   21.7MB / 16.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        21.50%    177.1MiB / 13.59GiB   1.27%     0B / 0B         0B / 33.4MB       58
-4c8ac5212646   naughty_kare        0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.24MiB / 13.59GiB   0.66%     432kB / 585kB   21.7MB / 17.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        32.07%    174.5MiB / 13.59GiB   1.25%     0B / 0B         0B / 35.5MB       58
-4c8ac5212646   naughty_kare        0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.53%     92.24MiB / 13.59GiB   0.66%     434kB / 586kB   21.7MB / 17.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        32.54%    174.2MiB / 13.59GiB   1.25%     0B / 0B         0B / 36.5MB       57
-4c8ac5212646   naughty_kare        0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.61%     92.24MiB / 13.59GiB   0.66%     436kB / 587kB   21.7MB / 17.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        28.95%    174.4MiB / 13.59GiB   1.25%     0B / 0B         0B / 38.9MB       57
-4c8ac5212646   naughty_kare        0.05%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.55%     92.24MiB / 13.59GiB   0.66%     437kB / 587kB   21.7MB / 17.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        32.57%    172MiB / 13.59GiB     1.24%     0B / 0B         0B / 39.9MB       57
-4c8ac5212646   naughty_kare        0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     92.24MiB / 13.59GiB   0.66%     440kB / 589kB   21.7MB / 17.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        23.69%    169.8MiB / 13.59GiB   1.22%     0B / 0B         0B / 40.9MB       55
-4c8ac5212646   naughty_kare        0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.24MiB / 13.59GiB   0.66%     441kB / 589kB   21.7MB / 17.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        17.00%    169.3MiB / 13.59GiB   1.22%     0B / 0B         0B / 43MB         55
-4c8ac5212646   naughty_kare        0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.24MiB / 13.59GiB   0.66%     443kB / 590kB   21.7MB / 17.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        35.56%    167.7MiB / 13.59GiB   1.21%     0B / 0B         0B / 44MB         55
-4c8ac5212646   naughty_kare        0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.74%     92.25MiB / 13.59GiB   0.66%     445kB / 591kB   21.7MB / 17.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        29.59%    166.9MiB / 13.59GiB   1.20%     0B / 0B         0B / 45MB         55
-4c8ac5212646   naughty_kare        0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.64%     92.25MiB / 13.59GiB   0.66%     446kB / 591kB   21.7MB / 17.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        32.74%    163.6MiB / 13.59GiB   1.18%     0B / 0B         0B / 47.1MB       55
-4c8ac5212646   naughty_kare        0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     92.25MiB / 13.59GiB   0.66%     448kB / 592kB   21.7MB / 17.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        25.97%    162.8MiB / 13.59GiB   1.17%     0B / 0B         0B / 50.5MB       56
-4c8ac5212646   naughty_kare        0.03%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.68%     92.37MiB / 13.59GiB   0.66%     450kB / 593kB   21.7MB / 17.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        30.39%    162.6MiB / 13.59GiB   1.17%     0B / 0B         0B / 52.9MB       55
-4c8ac5212646   naughty_kare        0.03%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.73%     92.25MiB / 13.59GiB   0.66%     451kB / 593kB   21.7MB / 17.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        15.98%    163.6MiB / 13.59GiB   1.18%     0B / 0B         0B / 53.9MB       56
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.46%     92.25MiB / 13.59GiB   0.66%     453kB / 594kB   21.7MB / 17.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        33.98%    161.3MiB / 13.59GiB   1.16%     0B / 0B         0B / 56MB         56
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     92.25MiB / 13.59GiB   0.66%     455kB / 595kB   21.7MB / 17.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        31.00%    162.4MiB / 13.59GiB   1.17%     0B / 0B         0B / 57MB         56
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.65%     92.25MiB / 13.59GiB   0.66%     457kB / 596kB   21.7MB / 17.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        22.12%    163.1MiB / 13.59GiB   1.17%     0B / 0B         0B / 59MB         56
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.25MiB / 13.59GiB   0.66%     459kB / 597kB   21.7MB / 17.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        24.32%    160.7MiB / 13.59GiB   1.15%     0B / 0B         0B / 61.1MB       56
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.73%     92.27MiB / 13.59GiB   0.66%     460kB / 597kB   21.7MB / 17.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        60.05%    185MiB / 13.59GiB     1.33%     0B / 0B         0B / 62.1MB       88
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.79%     92.27MiB / 13.59GiB   0.66%     462kB / 597kB   21.7MB / 17.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        24.92%    191.4MiB / 13.59GiB   1.38%     0B / 0B         0B / 63.5MB       89
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.27MiB / 13.59GiB   0.66%     464kB / 599kB   21.7MB / 17.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        25.19%    189.5MiB / 13.59GiB   1.36%     0B / 0B         0B / 64.5MB       89
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.58%     92.27MiB / 13.59GiB   0.66%     466kB / 599kB   21.7MB / 17.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        38.03%    188.7MiB / 13.59GiB   1.36%     0B / 0B         0B / 66.6MB       89
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.74%     92.27MiB / 13.59GiB   0.66%     467kB / 599kB   21.7MB / 17.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        30.93%    188.5MiB / 13.59GiB   1.35%     0B / 0B         0B / 68.6MB       89
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.61%     92.27MiB / 13.59GiB   0.66%     469kB / 601kB   21.7MB / 17.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        22.78%    188.3MiB / 13.59GiB   1.35%     0B / 0B         0B / 70.7MB       89
-4c8ac5212646   naughty_kare        0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.71%     92.27MiB / 13.59GiB   0.66%     471kB / 601kB   21.7MB / 17.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        15.64%    188.8MiB / 13.59GiB   1.36%     0B / 0B         0B / 71.7MB       89
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.75%     92.27MiB / 13.59GiB   0.66%     473kB / 602kB   21.7MB / 17.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        36.29%    185.4MiB / 13.59GiB   1.33%     0B / 0B         0B / 73.8MB       89
-4c8ac5212646   naughty_kare        0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.57%     92.27MiB / 13.59GiB   0.66%     475kB / 603kB   21.7MB / 17.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-6ac6db31fadb   firefox-45.0        32.53%    188MiB / 13.59GiB     1.35%     0B / 0B         0B / 73.8MB     89
-4c8ac5212646   naughty_kare        0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
-32a44ec76e17   mongo_destination   0.65%     92.27MiB / 13.59GiB   0.66%     477kB / 603kB   21.7MB / 18MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-6ac6db31fadb   firefox-45.0        23.93%    186.2MiB / 13.59GiB   1.34%     0B / 0B         0B / 74.1MB     88
-4c8ac5212646   naughty_kare        0.04%     5.32MiB / 13.59GiB    0.04%     0B / 0B         0B / 0B         5
-32a44ec76e17   mongo_destination   0.67%     92.27MiB / 13.59GiB   0.66%     479kB / 605kB   21.7MB / 18MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-6ac6db31fadb   firefox-45.0        21.49%    193.1MiB / 13.59GiB   1.39%     0B / 0B         0B / 76.2MB     88
-4c8ac5212646   naughty_kare        0.04%     5.32MiB / 13.59GiB    0.04%     0B / 0B         0B / 0B         5
-32a44ec76e17   mongo_destination   1.54%     92.27MiB / 13.59GiB   0.66%     480kB / 605kB   21.7MB / 18MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-6ac6db31fadb   firefox-45.0        19.00%    191.9MiB / 13.59GiB   1.38%     0B / 0B         0B / 77.2MB     88
-4c8ac5212646   naughty_kare        0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
-32a44ec76e17   mongo_destination   0.61%     92.27MiB / 13.59GiB   0.66%     482kB / 606kB   21.7MB / 18MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
-6ac6db31fadb   firefox-45.0        26.90%    191.5MiB / 13.59GiB   1.38%     0B / 0B         0B / 79.2MB     87
-4c8ac5212646   naughty_kare        0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
-32a44ec76e17   mongo_destination   0.63%     92.27MiB / 13.59GiB   0.66%     484kB / 607kB   21.7MB / 18MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        23.85%    189.2MiB / 13.59GiB   1.36%     0B / 0B         0B / 81.3MB       87
-4c8ac5212646   naughty_kare        0.03%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.68%     92.39MiB / 13.59GiB   0.66%     485kB / 607kB   21.7MB / 18.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        28.69%    189.6MiB / 13.59GiB   1.36%     0B / 0B         0B / 83.4MB       87
-4c8ac5212646   naughty_kare        0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.61%     92.27MiB / 13.59GiB   0.66%     487kB / 608kB   21.7MB / 18.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        28.31%    189MiB / 13.59GiB     1.36%     0B / 0B         0B / 84.4MB       87
-4c8ac5212646   naughty_kare        0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   2.55%     92.28MiB / 13.59GiB   0.66%     489kB / 609kB   21.7MB / 18.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        1.83%     188MiB / 13.59GiB     1.35%     0B / 0B         0B / 85.4MB       87
-4c8ac5212646   naughty_kare        0.05%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.29MiB / 13.59GiB   0.66%     490kB / 609kB   21.7MB / 18.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-6ac6db31fadb   firefox-45.0        2.79%     162.1MiB / 13.59GiB   1.16%     0B / 0B         0B / 85.4MB       56
-4c8ac5212646   naughty_kare        0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.62%     92.29MiB / 13.59GiB   0.66%     492kB / 610kB   21.7MB / 18.4MB   36
+CONTAINER_ID   NAME                CPU_%     MEM_USAGE/LIMIT     MEM_%     NET_I/O         BLOCK_I/O         PIDS
+6ac6db31fadb   firefox-45.0        9.81     207.2MiB/13.59GiB   1.49     0B/0B         0B/13.4MB       56
+4c8ac5212646   naughty_kare        0.03     5.293MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     91.79MiB/13.59GiB   0.66     422kB/582kB   21.7MB/16.8MB   36
+6ac6db31fadb   firefox-45.0        18.99    210.9MiB/13.59GiB   1.52     0B/0B         0B/14MB         57
+4c8ac5212646   naughty_kare        0.04     5.293MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     91.79MiB/13.59GiB   0.66     423kB/582kB   21.7MB/16.8MB   36
+6ac6db31fadb   firefox-45.0        33.18    191.1MiB/13.59GiB   1.37     0B/0B         0B/27.2MB       58
+4c8ac5212646   naughty_kare        0.03     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.70     91.79MiB/13.59GiB   0.66     425kB/583kB   21.7MB/16.8MB   36
+6ac6db31fadb   firefox-45.0        22.45    186.5MiB/13.59GiB   1.34     0B/0B         0B/28.3MB       58
+4c8ac5212646   naughty_kare        0.04     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     91.84MiB/13.59GiB   0.66     427kB/583kB   21.7MB/16.9MB   36
+6ac6db31fadb   firefox-45.0        32.74    184.7MiB/13.59GiB   1.33     0B/0B         0B/30.4MB       58
+4c8ac5212646   naughty_kare        0.04     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     91.84MiB/13.59GiB   0.66     428kB/584kB   21.7MB/16.9MB   36
+6ac6db31fadb   firefox-45.0        24.98    179.5MiB/13.59GiB   1.29     0B/0B         0B/32.4MB       58
+4c8ac5212646   naughty_kare        0.04     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.60     91.84MiB/13.59GiB   0.66     430kB/585kB   21.7MB/16.9MB   36
+6ac6db31fadb   firefox-45.0        21.50    177.1MiB/13.59GiB   1.27     0B/0B         0B/33.4MB       58
+4c8ac5212646   naughty_kare        0.03     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.24MiB/13.59GiB   0.66     432kB/585kB   21.7MB/17.1MB   36
+6ac6db31fadb   firefox-45.0        32.07    174.5MiB/13.59GiB   1.25     0B/0B         0B/35.5MB       58
+4c8ac5212646   naughty_kare        0.03     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.53     92.24MiB/13.59GiB   0.66     434kB/586kB   21.7MB/17.1MB   36
+6ac6db31fadb   firefox-45.0        32.54    174.2MiB/13.59GiB   1.25     0B/0B         0B/36.5MB       57
+4c8ac5212646   naughty_kare        0.04     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.61     92.24MiB/13.59GiB   0.66     436kB/587kB   21.7MB/17.2MB   36
+6ac6db31fadb   firefox-45.0        28.95    174.4MiB/13.59GiB   1.25     0B/0B         0B/38.9MB       57
+4c8ac5212646   naughty_kare        0.05     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.55     92.24MiB/13.59GiB   0.66     437kB/587kB   21.7MB/17.2MB   36
+6ac6db31fadb   firefox-45.0        32.57    172MiB/13.59GiB     1.24     0B/0B         0B/39.9MB       57
+4c8ac5212646   naughty_kare        0.03     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     92.24MiB/13.59GiB   0.66     440kB/589kB   21.7MB/17.2MB   36
+6ac6db31fadb   firefox-45.0        23.69    169.8MiB/13.59GiB   1.22     0B/0B         0B/40.9MB       55
+4c8ac5212646   naughty_kare        0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.24MiB/13.59GiB   0.66     441kB/589kB   21.7MB/17.3MB   36
+6ac6db31fadb   firefox-45.0        17.00    169.3MiB/13.59GiB   1.22     0B/0B         0B/43MB         55
+4c8ac5212646   naughty_kare        0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.24MiB/13.59GiB   0.66     443kB/590kB   21.7MB/17.3MB   36
+6ac6db31fadb   firefox-45.0        35.56    167.7MiB/13.59GiB   1.21     0B/0B         0B/44MB         55
+4c8ac5212646   naughty_kare        0.04     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.74     92.25MiB/13.59GiB   0.66     445kB/591kB   21.7MB/17.3MB   36
+6ac6db31fadb   firefox-45.0        29.59    166.9MiB/13.59GiB   1.20     0B/0B         0B/45MB         55
+4c8ac5212646   naughty_kare        0.04     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.64     92.25MiB/13.59GiB   0.66     446kB/591kB   21.7MB/17.3MB   36
+6ac6db31fadb   firefox-45.0        32.74    163.6MiB/13.59GiB   1.18     0B/0B         0B/47.1MB       55
+4c8ac5212646   naughty_kare        0.04     5.309MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     92.25MiB/13.59GiB   0.66     448kB/592kB   21.7MB/17.4MB   36
+6ac6db31fadb   firefox-45.0        25.97    162.8MiB/13.59GiB   1.17     0B/0B         0B/50.5MB       56
+4c8ac5212646   naughty_kare        0.03     5.309MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.68     92.37MiB/13.59GiB   0.66     450kB/593kB   21.7MB/17.4MB   36
+6ac6db31fadb   firefox-45.0        30.39    162.6MiB/13.59GiB   1.17     0B/0B         0B/52.9MB       55
+4c8ac5212646   naughty_kare        0.03     5.309MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.73     92.25MiB/13.59GiB   0.66     451kB/593kB   21.7MB/17.4MB   36
+6ac6db31fadb   firefox-45.0        15.98    163.6MiB/13.59GiB   1.18     0B/0B         0B/53.9MB       56
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.46     92.25MiB/13.59GiB   0.66     453kB/594kB   21.7MB/17.4MB   36
+6ac6db31fadb   firefox-45.0        33.98    161.3MiB/13.59GiB   1.16     0B/0B         0B/56MB         56
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     92.25MiB/13.59GiB   0.66     455kB/595kB   21.7MB/17.4MB   36
+6ac6db31fadb   firefox-45.0        31.00    162.4MiB/13.59GiB   1.17     0B/0B         0B/57MB         56
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.65     92.25MiB/13.59GiB   0.66     457kB/596kB   21.7MB/17.5MB   36
+6ac6db31fadb   firefox-45.0        22.12    163.1MiB/13.59GiB   1.17     0B/0B         0B/59MB         56
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.25MiB/13.59GiB   0.66     459kB/597kB   21.7MB/17.5MB   36
+6ac6db31fadb   firefox-45.0        24.32    160.7MiB/13.59GiB   1.15     0B/0B         0B/61.1MB       56
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.73     92.27MiB/13.59GiB   0.66     460kB/597kB   21.7MB/17.7MB   36
+6ac6db31fadb   firefox-45.0        60.05    185MiB/13.59GiB     1.33     0B/0B         0B/62.1MB       88
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.79     92.27MiB/13.59GiB   0.66     462kB/597kB   21.7MB/17.7MB   36
+6ac6db31fadb   firefox-45.0        24.92    191.4MiB/13.59GiB   1.38     0B/0B         0B/63.5MB       89
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.27MiB/13.59GiB   0.66     464kB/599kB   21.7MB/17.7MB   36
+6ac6db31fadb   firefox-45.0        25.19    189.5MiB/13.59GiB   1.36     0B/0B         0B/64.5MB       89
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.58     92.27MiB/13.59GiB   0.66     466kB/599kB   21.7MB/17.8MB   36
+6ac6db31fadb   firefox-45.0        38.03    188.7MiB/13.59GiB   1.36     0B/0B         0B/66.6MB       89
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.74     92.27MiB/13.59GiB   0.66     467kB/599kB   21.7MB/17.8MB   36
+6ac6db31fadb   firefox-45.0        30.93    188.5MiB/13.59GiB   1.35     0B/0B         0B/68.6MB       89
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.61     92.27MiB/13.59GiB   0.66     469kB/601kB   21.7MB/17.8MB   36
+6ac6db31fadb   firefox-45.0        22.78    188.3MiB/13.59GiB   1.35     0B/0B         0B/70.7MB       89
+4c8ac5212646   naughty_kare        0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.71     92.27MiB/13.59GiB   0.66     471kB/601kB   21.7MB/17.9MB   36
+6ac6db31fadb   firefox-45.0        15.64    188.8MiB/13.59GiB   1.36     0B/0B         0B/71.7MB       89
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.75     92.27MiB/13.59GiB   0.66     473kB/602kB   21.7MB/17.9MB   36
+6ac6db31fadb   firefox-45.0        36.29    185.4MiB/13.59GiB   1.33     0B/0B         0B/73.8MB       89
+4c8ac5212646   naughty_kare        0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.57     92.27MiB/13.59GiB   0.66     475kB/603kB   21.7MB/17.9MB   36
+6ac6db31fadb   firefox-45.0        32.53    188MiB/13.59GiB     1.35     0B/0B         0B/73.8MB     89
+4c8ac5212646   naughty_kare        0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B         5
+32a44ec76e17   mongo_destination   0.65     92.27MiB/13.59GiB   0.66     477kB/603kB   21.7MB/18MB   36
+6ac6db31fadb   firefox-45.0        23.93    186.2MiB/13.59GiB   1.34     0B/0B         0B/74.1MB     88
+4c8ac5212646   naughty_kare        0.04     5.32MiB/13.59GiB    0.04     0B/0B         0B/0B         5
+32a44ec76e17   mongo_destination   0.67     92.27MiB/13.59GiB   0.66     479kB/605kB   21.7MB/18MB   36
+6ac6db31fadb   firefox-45.0        21.49    193.1MiB/13.59GiB   1.39     0B/0B         0B/76.2MB     88
+4c8ac5212646   naughty_kare        0.04     5.32MiB/13.59GiB    0.04     0B/0B         0B/0B         5
+32a44ec76e17   mongo_destination   1.54     92.27MiB/13.59GiB   0.66     480kB/605kB   21.7MB/18MB   36
+6ac6db31fadb   firefox-45.0        19.00    191.9MiB/13.59GiB   1.38     0B/0B         0B/77.2MB     88
+4c8ac5212646   naughty_kare        0.04     5.324MiB/13.59GiB   0.04     0B/0B         0B/0B         5
+32a44ec76e17   mongo_destination   0.61     92.27MiB/13.59GiB   0.66     482kB/606kB   21.7MB/18MB   36
+6ac6db31fadb   firefox-45.0        26.90    191.5MiB/13.59GiB   1.38     0B/0B         0B/79.2MB     87
+4c8ac5212646   naughty_kare        0.04     5.324MiB/13.59GiB   0.04     0B/0B         0B/0B         5
+32a44ec76e17   mongo_destination   0.63     92.27MiB/13.59GiB   0.66     484kB/607kB   21.7MB/18MB   36
+6ac6db31fadb   firefox-45.0        23.85    189.2MiB/13.59GiB   1.36     0B/0B         0B/81.3MB       87
+4c8ac5212646   naughty_kare        0.03     5.324MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.68     92.39MiB/13.59GiB   0.66     485kB/607kB   21.7MB/18.1MB   36
+6ac6db31fadb   firefox-45.0        28.69    189.6MiB/13.59GiB   1.36     0B/0B         0B/83.4MB       87
+4c8ac5212646   naughty_kare        0.04     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.61     92.27MiB/13.59GiB   0.66     487kB/608kB   21.7MB/18.1MB   36
+6ac6db31fadb   firefox-45.0        28.31    189MiB/13.59GiB     1.36     0B/0B         0B/84.4MB       87
+4c8ac5212646   naughty_kare        0.03     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   2.55     92.28MiB/13.59GiB   0.66     489kB/609kB   21.7MB/18.3MB   36
+6ac6db31fadb   firefox-45.0        1.83     188MiB/13.59GiB     1.35     0B/0B         0B/85.4MB       87
+4c8ac5212646   naughty_kare        0.05     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.29MiB/13.59GiB   0.66     490kB/609kB   21.7MB/18.3MB   36
+6ac6db31fadb   firefox-45.0        2.79     162.1MiB/13.59GiB   1.16     0B/0B         0B/85.4MB       56
+4c8ac5212646   naughty_kare        0.04     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.62     92.29MiB/13.59GiB   0.66     492kB/610kB   21.7MB/18.4MB   36

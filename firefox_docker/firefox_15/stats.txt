@@ -1,271 +1,194 @@
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        2.36%     56.62MiB / 13.59GiB   0.41%     0B / 0B          0B / 10.8MB       19
-32a44ec76e17   mongo_destination   0.57%     92.21MiB / 13.59GiB   0.66%     710kB / 1.33MB   21.7MB / 27.1MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        6.31%     56.79MiB / 13.59GiB   0.41%     0B / 0B          0B / 10.8MB       19
-32a44ec76e17   mongo_destination   0.48%     92.21MiB / 13.59GiB   0.66%     710kB / 1.33MB   21.7MB / 27.1MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        36.43%    60.26MiB / 13.59GiB   0.43%     0B / 0B          0B / 12MB         19
-32a44ec76e17   mongo_destination   0.61%     92.21MiB / 13.59GiB   0.66%     710kB / 1.34MB   21.7MB / 27.1MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        59.90%    63.78MiB / 13.59GiB   0.46%     0B / 0B          0B / 15.1MB       19
-32a44ec76e17   mongo_destination   0.41%     92.21MiB / 13.59GiB   0.66%     710kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        64.09%    63.96MiB / 13.59GiB   0.46%     0B / 0B          0B / 17MB         19
-32a44ec76e17   mongo_destination   0.53%     92.21MiB / 13.59GiB   0.66%     710kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        59.04%    64.96MiB / 13.59GiB   0.47%     0B / 0B          0B / 19.1MB       19
-32a44ec76e17   mongo_destination   0.51%     92.21MiB / 13.59GiB   0.66%     710kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        46.28%    64.28MiB / 13.59GiB   0.46%     0B / 0B          0B / 20.1MB       19
-32a44ec76e17   mongo_destination   0.57%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        6.83%     63.73MiB / 13.59GiB   0.46%     0B / 0B          0B / 21.1MB       19
-32a44ec76e17   mongo_destination   0.48%     92.34MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        69.16%    69.99MiB / 13.59GiB   0.50%     0B / 0B          0B / 23.5MB       19
-32a44ec76e17   mongo_destination   0.66%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        62.00%    68.61MiB / 13.59GiB   0.49%     0B / 0B          0B / 24.5MB       19
-32a44ec76e17   mongo_destination   0.58%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        64.74%    68.88MiB / 13.59GiB   0.50%     0B / 0B          0B / 26.6MB       19
-32a44ec76e17   mongo_destination   0.42%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        66.92%    69.26MiB / 13.59GiB   0.50%     0B / 0B          0B / 28.6MB       19
-32a44ec76e17   mongo_destination   0.52%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        77.78%    69.3MiB / 13.59GiB    0.50%     0B / 0B          0B / 30.7MB       19
-32a44ec76e17   mongo_destination   0.40%     92.34MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        76.77%    69.53MiB / 13.59GiB   0.50%     0B / 0B          0B / 32.7MB       19
-32a44ec76e17   mongo_destination   0.45%     92.21MiB / 13.59GiB   0.66%     711kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        61.12%    70.02MiB / 13.59GiB   0.50%     0B / 0B          0B / 34.7MB       19
-32a44ec76e17   mongo_destination   1.04%     92.21MiB / 13.59GiB   0.66%     712kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        59.70%    67.83MiB / 13.59GiB   0.49%     0B / 0B          0B / 35.7MB       19
-32a44ec76e17   mongo_destination   0.50%     92.21MiB / 13.59GiB   0.66%     712kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        2.77%     66.86MiB / 13.59GiB   0.48%     0B / 0B          0B / 35.7MB       18
-32a44ec76e17   mongo_destination   0.59%     92.21MiB / 13.59GiB   0.66%     712kB / 1.34MB   21.7MB / 27.2MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        21.83%    71.2MiB / 13.59GiB    0.51%     0B / 0B          0B / 38.1MB       18
-32a44ec76e17   mongo_destination   0.49%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        10.27%    72.38MiB / 13.59GiB   0.52%     0B / 0B          0B / 40.1MB       18
-32a44ec76e17   mongo_destination   0.57%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        24.54%    133.5MiB / 13.59GiB   0.96%     0B / 0B          1.15MB / 44.3MB   23
-32a44ec76e17   mongo_destination   0.64%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        21.68%    96.16MiB / 13.59GiB   0.69%     0B / 0B          1.15MB / 46.4MB   23
-32a44ec76e17   mongo_destination   0.60%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        24.01%    87.49MiB / 13.59GiB   0.63%     0B / 0B          1.15MB / 48.4MB   23
-32a44ec76e17   mongo_destination   0.56%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        6.22%     81.86MiB / 13.59GiB   0.59%     0B / 0B          1.15MB / 49.4MB   23
-32a44ec76e17   mongo_destination   0.65%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.3MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        10.07%    85.65MiB / 13.59GiB   0.62%     0B / 0B          1.15MB / 50.8MB   23
-32a44ec76e17   mongo_destination   0.65%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        10.73%    86.56MiB / 13.59GiB   0.62%     0B / 0B          1.15MB / 52.8MB   23
-32a44ec76e17   mongo_destination   0.64%     92.21MiB / 13.59GiB   0.66%     713kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        22.92%    86.64MiB / 13.59GiB   0.62%     0B / 0B          1.15MB / 55.9MB   23
-32a44ec76e17   mongo_destination   1.07%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        18.00%    83.99MiB / 13.59GiB   0.60%     0B / 0B          1.15MB / 58MB     23
-32a44ec76e17   mongo_destination   0.60%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        18.39%    82.21MiB / 13.59GiB   0.59%     0B / 0B          1.15MB / 59MB     23
-32a44ec76e17   mongo_destination   0.64%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        15.90%    85.3MiB / 13.59GiB    0.61%     0B / 0B          1.15MB / 61.1MB   19
-32a44ec76e17   mongo_destination   0.53%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        7.49%     84.41MiB / 13.59GiB   0.61%     0B / 0B          1.15MB / 61.4MB   19
-32a44ec76e17   mongo_destination   0.59%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        25.67%    91.06MiB / 13.59GiB   0.65%     0B / 0B          1.15MB / 63.5MB   19
-32a44ec76e17   mongo_destination   0.66%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        15.74%    92MiB / 13.59GiB      0.66%     0B / 0B          1.15MB / 65.5MB   19
-32a44ec76e17   mongo_destination   0.56%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        15.44%    87.97MiB / 13.59GiB   0.63%     0B / 0B          1.15MB / 67.6MB   19
-32a44ec76e17   mongo_destination   0.57%     92.21MiB / 13.59GiB   0.66%     714kB / 1.34MB   21.7MB / 27.4MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        16.77%    86.82MiB / 13.59GiB   0.62%     0B / 0B          1.15MB / 69.6MB   19
-32a44ec76e17   mongo_destination   1.44%     92.21MiB / 13.59GiB   0.66%     715kB / 1.34MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        18.23%    87.23MiB / 13.59GiB   0.63%     0B / 0B          1.15MB / 71.7MB   19
-32a44ec76e17   mongo_destination   0.60%     92.21MiB / 13.59GiB   0.66%     715kB / 1.34MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        1.08%     85.25MiB / 13.59GiB   0.61%     0B / 0B          1.15MB / 72.7MB   19
-32a44ec76e17   mongo_destination   0.64%     92.21MiB / 13.59GiB   0.66%     715kB / 1.34MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        0.04%     84.67MiB / 13.59GiB   0.61%     0B / 0B          1.15MB / 72.7MB   19
-32a44ec76e17   mongo_destination   0.64%     92.21MiB / 13.59GiB   0.66%     715kB / 1.35MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        1.12%     84.29MiB / 13.59GiB   0.61%     0B / 0B          1.15MB / 72.7MB   19
-32a44ec76e17   mongo_destination   0.44%     92.21MiB / 13.59GiB   0.66%     715kB / 1.35MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-1e1de34b3ae7   firefox-15.0        0.04%     84.29MiB / 13.59GiB   0.61%     0B / 0B          1.15MB / 72.7MB   19
-32a44ec76e17   mongo_destination   0.60%     92.21MiB / 13.59GiB   0.66%     715kB / 1.35MB   21.7MB / 27.5MB   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-55778b07e062   kind_hopper         0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   1.57%     92.25MiB / 13.59GiB   0.66%     721kB / 1.35MB   21.7MB / 27.7MB   36
-79d6783ef51b   firefox-15.0        68.26%    60.89MiB / 13.59GiB   0.44%     0B / 0B          0B / 9.61MB       19
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        51.01%    71.42MiB / 13.59GiB   0.51%     0B / 0B          0B / 11.6MB       20
-55778b07e062   kind_hopper         0.03%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.25MiB / 13.59GiB   0.66%     723kB / 1.35MB   21.7MB / 27.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        53.94%    63.62MiB / 13.59GiB   0.46%     0B / 0B          0B / 12.7MB       20
-55778b07e062   kind_hopper         0.04%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.63%     92.25MiB / 13.59GiB   0.66%     725kB / 1.35MB   21.7MB / 27.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        53.86%    62.01MiB / 13.59GiB   0.45%     0B / 0B          0B / 15.1MB       20
-55778b07e062   kind_hopper         0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.59%     92.47MiB / 13.59GiB   0.66%     726kB / 1.35MB   21.7MB / 27.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        53.72%    64.64MiB / 13.59GiB   0.46%     0B / 0B          0B / 17.1MB     20
-55778b07e062   kind_hopper         0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.60%     92.47MiB / 13.59GiB   0.66%     729kB / 1.35MB   21.7MB / 28MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        51.46%    65.52MiB / 13.59GiB   0.47%     0B / 0B          0B / 19.2MB     20
-55778b07e062   kind_hopper         0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.91%     92.6MiB / 13.59GiB    0.67%     730kB / 1.35MB   21.7MB / 28MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        49.63%    66.52MiB / 13.59GiB   0.48%     0B / 0B          0B / 20.2MB     20
-55778b07e062   kind_hopper         0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.64%     92.47MiB / 13.59GiB   0.66%     732kB / 1.36MB   21.7MB / 28MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        5.28%     66.14MiB / 13.59GiB   0.48%     0B / 0B          0B / 22.2MB     20
-55778b07e062   kind_hopper         0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.59%     92.47MiB / 13.59GiB   0.66%     733kB / 1.36MB   21.7MB / 28MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        4.72%     64.82MiB / 13.59GiB   0.47%     0B / 0B          0B / 22.6MB     20
-55778b07e062   kind_hopper         0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.80%     92.47MiB / 13.59GiB   0.66%     735kB / 1.36MB   21.7MB / 28MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        56.94%    68.46MiB / 13.59GiB   0.49%     0B / 0B          0B / 23.6MB       20
-55778b07e062   kind_hopper         0.08%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.56%     92.47MiB / 13.59GiB   0.66%     737kB / 1.36MB   21.7MB / 28.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        65.85%    68.7MiB / 13.59GiB    0.49%     0B / 0B          0B / 25.6MB       20
-55778b07e062   kind_hopper         0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.65%     92.47MiB / 13.59GiB   0.66%     738kB / 1.36MB   21.7MB / 28.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        61.93%    69.36MiB / 13.59GiB   0.50%     0B / 0B          0B / 27.7MB       20
-55778b07e062   kind_hopper         0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   1.80%     92.47MiB / 13.59GiB   0.66%     740kB / 1.36MB   21.7MB / 28.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        46.98%    70.35MiB / 13.59GiB   0.51%     0B / 0B          0B / 29.7MB       20
-55778b07e062   kind_hopper         0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.63%     92.47MiB / 13.59GiB   0.66%     742kB / 1.36MB   21.7MB / 28.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        72.16%    69.66MiB / 13.59GiB   0.50%     0B / 0B          0B / 31.8MB       20
-55778b07e062   kind_hopper         0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.53%     92.47MiB / 13.59GiB   0.66%     744kB / 1.36MB   21.7MB / 28.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        63.99%    70.71MiB / 13.59GiB   0.51%     0B / 0B          0B / 33.8MB       20
-55778b07e062   kind_hopper         0.03%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.58%     92.47MiB / 13.59GiB   0.66%     746kB / 1.36MB   21.7MB / 28.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        1.47%     71.29MiB / 13.59GiB   0.51%     0B / 0B          0B / 33.8MB       20
-55778b07e062   kind_hopper         0.06%     5.309MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.68%     92.47MiB / 13.59GiB   0.66%     748kB / 1.36MB   21.7MB / 28.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        16.89%    72.98MiB / 13.59GiB   0.52%     0B / 0B          0B / 36.2MB       20
-55778b07e062   kind_hopper         0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.77%     92.47MiB / 13.59GiB   0.66%     749kB / 1.36MB   21.7MB / 28.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        13.87%    74.3MiB / 13.59GiB    0.53%     0B / 0B          0B / 37.3MB       19
-55778b07e062   kind_hopper         0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.64%     92.59MiB / 13.59GiB   0.67%     752kB / 1.36MB   21.7MB / 28.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        20.36%    74.02MiB / 13.59GiB   0.53%     0B / 0B          0B / 38.3MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.76%     92.47MiB / 13.59GiB   0.66%     753kB / 1.36MB   21.7MB / 28.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        15.31%    73.45MiB / 13.59GiB   0.53%     0B / 0B          0B / 41.4MB       19
-55778b07e062   kind_hopper         0.05%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   1.05%     92.47MiB / 13.59GiB   0.66%     755kB / 1.36MB   21.7MB / 28.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        19.63%    73.2MiB / 13.59GiB    0.53%     0B / 0B          0B / 42.4MB       19
-55778b07e062   kind_hopper         0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.39MiB / 13.59GiB   0.66%     757kB / 1.37MB   21.7MB / 28.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        23.98%    73.26MiB / 13.59GiB   0.53%     0B / 0B          0B / 45.5MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.71%     92.39MiB / 13.59GiB   0.66%     758kB / 1.37MB   21.7MB / 28.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        8.89%     77.16MiB / 13.59GiB   0.55%     0B / 0B          0B / 45.5MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.73%     92.39MiB / 13.59GiB   0.66%     760kB / 1.37MB   21.7MB / 28.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        12.74%    74.84MiB / 13.59GiB   0.54%     0B / 0B          0B / 46.8MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.39MiB / 13.59GiB   0.66%     762kB / 1.37MB   21.7MB / 28.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        25.18%    74.53MiB / 13.59GiB   0.54%     0B / 0B          0B / 49.9MB       19
-55778b07e062   kind_hopper         0.02%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     92.39MiB / 13.59GiB   0.66%     763kB / 1.37MB   21.7MB / 28.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        18.01%    75.38MiB / 13.59GiB   0.54%     0B / 0B          0B / 52MB         19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.53%     92.39MiB / 13.59GiB   0.66%     765kB / 1.37MB   21.7MB / 28.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        14.87%    76.14MiB / 13.59GiB   0.55%     0B / 0B          0B / 54MB         19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.39MiB / 13.59GiB   0.66%     767kB / 1.37MB   21.7MB / 28.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        10.51%    75.6MiB / 13.59GiB    0.54%     0B / 0B          0B / 55.1MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.68%     92.39MiB / 13.59GiB   0.66%     769kB / 1.37MB   21.7MB / 28.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        16.16%    73.88MiB / 13.59GiB   0.53%     0B / 0B          0B / 57.1MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.57%     92.39MiB / 13.59GiB   0.66%     771kB / 1.37MB   21.7MB / 28.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        3.22%     75.92MiB / 13.59GiB   0.55%     0B / 0B          0B / 57.1MB       19
-55778b07e062   kind_hopper         0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.68%     92.39MiB / 13.59GiB   0.66%     772kB / 1.37MB   21.7MB / 28.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        15.89%    81.8MiB / 13.59GiB    0.59%     0B / 0B          0B / 58.5MB       19
-55778b07e062   kind_hopper         0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   1.54%     92.39MiB / 13.59GiB   0.66%     775kB / 1.37MB   21.7MB / 28.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        18.75%    81.92MiB / 13.59GiB   0.59%     0B / 0B          0B / 61.5MB       19
-55778b07e062   kind_hopper         0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.39MiB / 13.59GiB   0.66%     776kB / 1.37MB   21.7MB / 28.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        18.03%    77.91MiB / 13.59GiB   0.56%     0B / 0B          0B / 63.6MB       19
-55778b07e062   kind_hopper         0.05%     5.32MiB / 13.59GiB    0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.64%     92.39MiB / 13.59GiB   0.66%     779kB / 1.37MB   21.7MB / 28.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        15.38%    78.24MiB / 13.59GiB   0.56%     0B / 0B          0B / 65.6MB       19
-55778b07e062   kind_hopper         0.04%     5.32MiB / 13.59GiB    0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   1.52%     92.39MiB / 13.59GiB   0.66%     780kB / 1.37MB   21.7MB / 28.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        14.86%    78.32MiB / 13.59GiB   0.56%     0B / 0B          0B / 67.7MB     19
-55778b07e062   kind_hopper         0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.56%     92.39MiB / 13.59GiB   0.66%     782kB / 1.38MB   21.7MB / 29MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
-79d6783ef51b   firefox-15.0        20.23%    78.68MiB / 13.59GiB   0.57%     0B / 0B          0B / 68.7MB     19
-55778b07e062   kind_hopper         0.05%     5.324MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
-32a44ec76e17   mongo_destination   0.70%     92.39MiB / 13.59GiB   0.66%     784kB / 1.38MB   21.7MB / 29MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        0.16%     79.98MiB / 13.59GiB   0.57%     0B / 0B          0B / 68.7MB       19
-55778b07e062   kind_hopper         0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.39MiB / 13.59GiB   0.66%     786kB / 1.38MB   21.7MB / 29.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-79d6783ef51b   firefox-15.0        3.38%     77.92MiB / 13.59GiB   0.56%     0B / 0B          0B / 68.7MB       19
-55778b07e062   kind_hopper         0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
-32a44ec76e17   mongo_destination   0.70%     92.39MiB / 13.59GiB   0.66%     787kB / 1.38MB   21.7MB / 29.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
-32a44ec76e17   mongo_destination   0.58%     92.36MiB / 13.59GiB   0.66%     789kB / 1.38MB   21.7MB / 29.2MB   35
+CONTAINER_ID   NAME                CPU_%     MEM_USAGE/LIMIT     MEM_%     NET_I/O          BLOCK_I/O         PIDS
+1e1de34b3ae7   firefox-15.0        2.36     56.62MiB/13.59GiB   0.41     0B/0B          0B/10.8MB       19
+32a44ec76e17   mongo_destination   0.57     92.21MiB/13.59GiB   0.66     710kB/1.33MB   21.7MB/27.1MB   35
+1e1de34b3ae7   firefox-15.0        6.31     56.79MiB/13.59GiB   0.41     0B/0B          0B/10.8MB       19
+32a44ec76e17   mongo_destination   0.48     92.21MiB/13.59GiB   0.66     710kB/1.33MB   21.7MB/27.1MB   35
+1e1de34b3ae7   firefox-15.0        36.43    60.26MiB/13.59GiB   0.43     0B/0B          0B/12MB         19
+32a44ec76e17   mongo_destination   0.61     92.21MiB/13.59GiB   0.66     710kB/1.34MB   21.7MB/27.1MB   35
+1e1de34b3ae7   firefox-15.0        59.90    63.78MiB/13.59GiB   0.46     0B/0B          0B/15.1MB       19
+32a44ec76e17   mongo_destination   0.41     92.21MiB/13.59GiB   0.66     710kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        64.09    63.96MiB/13.59GiB   0.46     0B/0B          0B/17MB         19
+32a44ec76e17   mongo_destination   0.53     92.21MiB/13.59GiB   0.66     710kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        59.04    64.96MiB/13.59GiB   0.47     0B/0B          0B/19.1MB       19
+32a44ec76e17   mongo_destination   0.51     92.21MiB/13.59GiB   0.66     710kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        46.28    64.28MiB/13.59GiB   0.46     0B/0B          0B/20.1MB       19
+32a44ec76e17   mongo_destination   0.57     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        6.83     63.73MiB/13.59GiB   0.46     0B/0B          0B/21.1MB       19
+32a44ec76e17   mongo_destination   0.48     92.34MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        69.16    69.99MiB/13.59GiB   0.50     0B/0B          0B/23.5MB       19
+32a44ec76e17   mongo_destination   0.66     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        62.00    68.61MiB/13.59GiB   0.49     0B/0B          0B/24.5MB       19
+32a44ec76e17   mongo_destination   0.58     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        64.74    68.88MiB/13.59GiB   0.50     0B/0B          0B/26.6MB       19
+32a44ec76e17   mongo_destination   0.42     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        66.92    69.26MiB/13.59GiB   0.50     0B/0B          0B/28.6MB       19
+32a44ec76e17   mongo_destination   0.52     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        77.78    69.3MiB/13.59GiB    0.50     0B/0B          0B/30.7MB       19
+32a44ec76e17   mongo_destination   0.40     92.34MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        76.77    69.53MiB/13.59GiB   0.50     0B/0B          0B/32.7MB       19
+32a44ec76e17   mongo_destination   0.45     92.21MiB/13.59GiB   0.66     711kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        61.12    70.02MiB/13.59GiB   0.50     0B/0B          0B/34.7MB       19
+32a44ec76e17   mongo_destination   1.04     92.21MiB/13.59GiB   0.66     712kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        59.70    67.83MiB/13.59GiB   0.49     0B/0B          0B/35.7MB       19
+32a44ec76e17   mongo_destination   0.50     92.21MiB/13.59GiB   0.66     712kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        2.77     66.86MiB/13.59GiB   0.48     0B/0B          0B/35.7MB       18
+32a44ec76e17   mongo_destination   0.59     92.21MiB/13.59GiB   0.66     712kB/1.34MB   21.7MB/27.2MB   35
+1e1de34b3ae7   firefox-15.0        21.83    71.2MiB/13.59GiB    0.51     0B/0B          0B/38.1MB       18
+32a44ec76e17   mongo_destination   0.49     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        10.27    72.38MiB/13.59GiB   0.52     0B/0B          0B/40.1MB       18
+32a44ec76e17   mongo_destination   0.57     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        24.54    133.5MiB/13.59GiB   0.96     0B/0B          1.15MB/44.3MB   23
+32a44ec76e17   mongo_destination   0.64     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        21.68    96.16MiB/13.59GiB   0.69     0B/0B          1.15MB/46.4MB   23
+32a44ec76e17   mongo_destination   0.60     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        24.01    87.49MiB/13.59GiB   0.63     0B/0B          1.15MB/48.4MB   23
+32a44ec76e17   mongo_destination   0.56     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        6.22     81.86MiB/13.59GiB   0.59     0B/0B          1.15MB/49.4MB   23
+32a44ec76e17   mongo_destination   0.65     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.3MB   35
+1e1de34b3ae7   firefox-15.0        10.07    85.65MiB/13.59GiB   0.62     0B/0B          1.15MB/50.8MB   23
+32a44ec76e17   mongo_destination   0.65     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        10.73    86.56MiB/13.59GiB   0.62     0B/0B          1.15MB/52.8MB   23
+32a44ec76e17   mongo_destination   0.64     92.21MiB/13.59GiB   0.66     713kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        22.92    86.64MiB/13.59GiB   0.62     0B/0B          1.15MB/55.9MB   23
+32a44ec76e17   mongo_destination   1.07     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        18.00    83.99MiB/13.59GiB   0.60     0B/0B          1.15MB/58MB     23
+32a44ec76e17   mongo_destination   0.60     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        18.39    82.21MiB/13.59GiB   0.59     0B/0B          1.15MB/59MB     23
+32a44ec76e17   mongo_destination   0.64     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        15.90    85.3MiB/13.59GiB    0.61     0B/0B          1.15MB/61.1MB   19
+32a44ec76e17   mongo_destination   0.53     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        7.49     84.41MiB/13.59GiB   0.61     0B/0B          1.15MB/61.4MB   19
+32a44ec76e17   mongo_destination   0.59     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        25.67    91.06MiB/13.59GiB   0.65     0B/0B          1.15MB/63.5MB   19
+32a44ec76e17   mongo_destination   0.66     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        15.74    92MiB/13.59GiB      0.66     0B/0B          1.15MB/65.5MB   19
+32a44ec76e17   mongo_destination   0.56     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        15.44    87.97MiB/13.59GiB   0.63     0B/0B          1.15MB/67.6MB   19
+32a44ec76e17   mongo_destination   0.57     92.21MiB/13.59GiB   0.66     714kB/1.34MB   21.7MB/27.4MB   35
+1e1de34b3ae7   firefox-15.0        16.77    86.82MiB/13.59GiB   0.62     0B/0B          1.15MB/69.6MB   19
+32a44ec76e17   mongo_destination   1.44     92.21MiB/13.59GiB   0.66     715kB/1.34MB   21.7MB/27.5MB   35
+1e1de34b3ae7   firefox-15.0        18.23    87.23MiB/13.59GiB   0.63     0B/0B          1.15MB/71.7MB   19
+32a44ec76e17   mongo_destination   0.60     92.21MiB/13.59GiB   0.66     715kB/1.34MB   21.7MB/27.5MB   35
+1e1de34b3ae7   firefox-15.0        1.08     85.25MiB/13.59GiB   0.61     0B/0B          1.15MB/72.7MB   19
+32a44ec76e17   mongo_destination   0.64     92.21MiB/13.59GiB   0.66     715kB/1.34MB   21.7MB/27.5MB   35
+1e1de34b3ae7   firefox-15.0        0.04     84.67MiB/13.59GiB   0.61     0B/0B          1.15MB/72.7MB   19
+32a44ec76e17   mongo_destination   0.64     92.21MiB/13.59GiB   0.66     715kB/1.35MB   21.7MB/27.5MB   35
+1e1de34b3ae7   firefox-15.0        1.12     84.29MiB/13.59GiB   0.61     0B/0B          1.15MB/72.7MB   19
+32a44ec76e17   mongo_destination   0.44     92.21MiB/13.59GiB   0.66     715kB/1.35MB   21.7MB/27.5MB   35
+1e1de34b3ae7   firefox-15.0        0.04     84.29MiB/13.59GiB   0.61     0B/0B          1.15MB/72.7MB   19
+32a44ec76e17   mongo_destination   0.60     92.21MiB/13.59GiB   0.66     715kB/1.35MB   21.7MB/27.5MB   35
+55778b07e062   kind_hopper         0.04     5.289MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   1.57     92.25MiB/13.59GiB   0.66     721kB/1.35MB   21.7MB/27.7MB   36
+79d6783ef51b   firefox-15.0        68.26    60.89MiB/13.59GiB   0.44     0B/0B          0B/9.61MB       19
+79d6783ef51b   firefox-15.0        51.01    71.42MiB/13.59GiB   0.51     0B/0B          0B/11.6MB       20
+55778b07e062   kind_hopper         0.03     5.293MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.25MiB/13.59GiB   0.66     723kB/1.35MB   21.7MB/27.7MB   36
+79d6783ef51b   firefox-15.0        53.94    63.62MiB/13.59GiB   0.46     0B/0B          0B/12.7MB       20
+55778b07e062   kind_hopper         0.04     5.293MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.63     92.25MiB/13.59GiB   0.66     725kB/1.35MB   21.7MB/27.7MB   36
+79d6783ef51b   firefox-15.0        53.86    62.01MiB/13.59GiB   0.45     0B/0B          0B/15.1MB       20
+55778b07e062   kind_hopper         0.04     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.59     92.47MiB/13.59GiB   0.66     726kB/1.35MB   21.7MB/27.9MB   36
+79d6783ef51b   firefox-15.0        53.72    64.64MiB/13.59GiB   0.46     0B/0B          0B/17.1MB     20
+55778b07e062   kind_hopper         0.03     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.60     92.47MiB/13.59GiB   0.66     729kB/1.35MB   21.7MB/28MB   36
+79d6783ef51b   firefox-15.0        51.46    65.52MiB/13.59GiB   0.47     0B/0B          0B/19.2MB     20
+55778b07e062   kind_hopper         0.04     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.91     92.6MiB/13.59GiB    0.67     730kB/1.35MB   21.7MB/28MB   36
+79d6783ef51b   firefox-15.0        49.63    66.52MiB/13.59GiB   0.48     0B/0B          0B/20.2MB     20
+55778b07e062   kind_hopper         0.03     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.64     92.47MiB/13.59GiB   0.66     732kB/1.36MB   21.7MB/28MB   36
+79d6783ef51b   firefox-15.0        5.28     66.14MiB/13.59GiB   0.48     0B/0B          0B/22.2MB     20
+55778b07e062   kind_hopper         0.04     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.59     92.47MiB/13.59GiB   0.66     733kB/1.36MB   21.7MB/28MB   36
+79d6783ef51b   firefox-15.0        4.72     64.82MiB/13.59GiB   0.47     0B/0B          0B/22.6MB     20
+55778b07e062   kind_hopper         0.04     5.297MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.80     92.47MiB/13.59GiB   0.66     735kB/1.36MB   21.7MB/28MB   36
+79d6783ef51b   firefox-15.0        56.94    68.46MiB/13.59GiB   0.49     0B/0B          0B/23.6MB       20
+55778b07e062   kind_hopper         0.08     5.301MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.56     92.47MiB/13.59GiB   0.66     737kB/1.36MB   21.7MB/28.1MB   36
+79d6783ef51b   firefox-15.0        65.85    68.7MiB/13.59GiB    0.49     0B/0B          0B/25.6MB       20
+55778b07e062   kind_hopper         0.03     5.301MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.65     92.47MiB/13.59GiB   0.66     738kB/1.36MB   21.7MB/28.1MB   36
+79d6783ef51b   firefox-15.0        61.93    69.36MiB/13.59GiB   0.50     0B/0B          0B/27.7MB       20
+55778b07e062   kind_hopper         0.04     5.301MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   1.80     92.47MiB/13.59GiB   0.66     740kB/1.36MB   21.7MB/28.1MB   36
+79d6783ef51b   firefox-15.0        46.98    70.35MiB/13.59GiB   0.51     0B/0B          0B/29.7MB       20
+55778b07e062   kind_hopper         0.04     5.301MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.63     92.47MiB/13.59GiB   0.66     742kB/1.36MB   21.7MB/28.2MB   36
+79d6783ef51b   firefox-15.0        72.16    69.66MiB/13.59GiB   0.50     0B/0B          0B/31.8MB       20
+55778b07e062   kind_hopper         0.04     5.301MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.53     92.47MiB/13.59GiB   0.66     744kB/1.36MB   21.7MB/28.2MB   36
+79d6783ef51b   firefox-15.0        63.99    70.71MiB/13.59GiB   0.51     0B/0B          0B/33.8MB       20
+55778b07e062   kind_hopper         0.03     5.305MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.58     92.47MiB/13.59GiB   0.66     746kB/1.36MB   21.7MB/28.2MB   36
+79d6783ef51b   firefox-15.0        1.47     71.29MiB/13.59GiB   0.51     0B/0B          0B/33.8MB       20
+55778b07e062   kind_hopper         0.06     5.309MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.68     92.47MiB/13.59GiB   0.66     748kB/1.36MB   21.7MB/28.2MB   36
+79d6783ef51b   firefox-15.0        16.89    72.98MiB/13.59GiB   0.52     0B/0B          0B/36.2MB       20
+55778b07e062   kind_hopper         0.04     5.309MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.77     92.47MiB/13.59GiB   0.66     749kB/1.36MB   21.7MB/28.3MB   36
+79d6783ef51b   firefox-15.0        13.87    74.3MiB/13.59GiB    0.53     0B/0B          0B/37.3MB       19
+55778b07e062   kind_hopper         0.04     5.309MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.64     92.59MiB/13.59GiB   0.67     752kB/1.36MB   21.7MB/28.3MB   36
+79d6783ef51b   firefox-15.0        20.36    74.02MiB/13.59GiB   0.53     0B/0B          0B/38.3MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.76     92.47MiB/13.59GiB   0.66     753kB/1.36MB   21.7MB/28.3MB   36
+79d6783ef51b   firefox-15.0        15.31    73.45MiB/13.59GiB   0.53     0B/0B          0B/41.4MB       19
+55778b07e062   kind_hopper         0.05     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   1.05     92.47MiB/13.59GiB   0.66     755kB/1.36MB   21.7MB/28.5MB   36
+79d6783ef51b   firefox-15.0        19.63    73.2MiB/13.59GiB    0.53     0B/0B          0B/42.4MB       19
+55778b07e062   kind_hopper         0.03     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.39MiB/13.59GiB   0.66     757kB/1.37MB   21.7MB/28.6MB   36
+79d6783ef51b   firefox-15.0        23.98    73.26MiB/13.59GiB   0.53     0B/0B          0B/45.5MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.71     92.39MiB/13.59GiB   0.66     758kB/1.37MB   21.7MB/28.6MB   36
+79d6783ef51b   firefox-15.0        8.89     77.16MiB/13.59GiB   0.55     0B/0B          0B/45.5MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.73     92.39MiB/13.59GiB   0.66     760kB/1.37MB   21.7MB/28.6MB   36
+79d6783ef51b   firefox-15.0        12.74    74.84MiB/13.59GiB   0.54     0B/0B          0B/46.8MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.39MiB/13.59GiB   0.66     762kB/1.37MB   21.7MB/28.6MB   36
+79d6783ef51b   firefox-15.0        25.18    74.53MiB/13.59GiB   0.54     0B/0B          0B/49.9MB       19
+55778b07e062   kind_hopper         0.02     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.69     92.39MiB/13.59GiB   0.66     763kB/1.37MB   21.7MB/28.6MB   36
+79d6783ef51b   firefox-15.0        18.01    75.38MiB/13.59GiB   0.54     0B/0B          0B/52MB         19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.53     92.39MiB/13.59GiB   0.66     765kB/1.37MB   21.7MB/28.7MB   36
+79d6783ef51b   firefox-15.0        14.87    76.14MiB/13.59GiB   0.55     0B/0B          0B/54MB         19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.39MiB/13.59GiB   0.66     767kB/1.37MB   21.7MB/28.7MB   36
+79d6783ef51b   firefox-15.0        10.51    75.6MiB/13.59GiB    0.54     0B/0B          0B/55.1MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.68     92.39MiB/13.59GiB   0.66     769kB/1.37MB   21.7MB/28.7MB   36
+79d6783ef51b   firefox-15.0        16.16    73.88MiB/13.59GiB   0.53     0B/0B          0B/57.1MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.57     92.39MiB/13.59GiB   0.66     771kB/1.37MB   21.7MB/28.8MB   36
+79d6783ef51b   firefox-15.0        3.22     75.92MiB/13.59GiB   0.55     0B/0B          0B/57.1MB       19
+55778b07e062   kind_hopper         0.04     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.68     92.39MiB/13.59GiB   0.66     772kB/1.37MB   21.7MB/28.8MB   36
+79d6783ef51b   firefox-15.0        15.89    81.8MiB/13.59GiB    0.59     0B/0B          0B/58.5MB       19
+55778b07e062   kind_hopper         0.03     5.312MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   1.54     92.39MiB/13.59GiB   0.66     775kB/1.37MB   21.7MB/28.9MB   36
+79d6783ef51b   firefox-15.0        18.75    81.92MiB/13.59GiB   0.59     0B/0B          0B/61.5MB       19
+55778b07e062   kind_hopper         0.03     5.316MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.39MiB/13.59GiB   0.66     776kB/1.37MB   21.7MB/28.9MB   36
+79d6783ef51b   firefox-15.0        18.03    77.91MiB/13.59GiB   0.56     0B/0B          0B/63.6MB       19
+55778b07e062   kind_hopper         0.05     5.32MiB/13.59GiB    0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.64     92.39MiB/13.59GiB   0.66     779kB/1.37MB   21.7MB/28.9MB   36
+79d6783ef51b   firefox-15.0        15.38    78.24MiB/13.59GiB   0.56     0B/0B          0B/65.6MB       19
+55778b07e062   kind_hopper         0.04     5.32MiB/13.59GiB    0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   1.52     92.39MiB/13.59GiB   0.66     780kB/1.37MB   21.7MB/28.9MB   36
+79d6783ef51b   firefox-15.0        14.86    78.32MiB/13.59GiB   0.56     0B/0B          0B/67.7MB     19
+55778b07e062   kind_hopper         0.04     5.324MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.56     92.39MiB/13.59GiB   0.66     782kB/1.38MB   21.7MB/29MB   36
+79d6783ef51b   firefox-15.0        20.23    78.68MiB/13.59GiB   0.57     0B/0B          0B/68.7MB     19
+55778b07e062   kind_hopper         0.05     5.324MiB/13.59GiB   0.04     0B/0B          0B/0B         5
+32a44ec76e17   mongo_destination   0.70     92.39MiB/13.59GiB   0.66     784kB/1.38MB   21.7MB/29MB   36
+79d6783ef51b   firefox-15.0        0.16     79.98MiB/13.59GiB   0.57     0B/0B          0B/68.7MB       19
+55778b07e062   kind_hopper         0.04     5.324MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.39MiB/13.59GiB   0.66     786kB/1.38MB   21.7MB/29.2MB   36
+79d6783ef51b   firefox-15.0        3.38     77.92MiB/13.59GiB   0.56     0B/0B          0B/68.7MB       19
+55778b07e062   kind_hopper         0.04     5.324MiB/13.59GiB   0.04     0B/0B          0B/0B           5
+32a44ec76e17   mongo_destination   0.70     92.39MiB/13.59GiB   0.66     787kB/1.38MB   21.7MB/29.2MB   36
+32a44ec76e17   mongo_destination   0.58     92.36MiB/13.59GiB   0.66     789kB/1.38MB   21.7MB/29.2MB   35

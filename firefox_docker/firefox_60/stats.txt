@@ -1,159 +1,120 @@
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        91.95%    356.7MiB / 13.59GiB   2.56%     0B / 0B         0B / 14.7MB       157
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.37MiB / 13.59GiB   0.66%     508kB / 783kB   21.7MB / 19.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        100.40%   372.9MiB / 13.59GiB   2.68%     0B / 0B         0B / 14.8MB       161
-4e3dbff0ef98   dreamy_agnesi       0.05%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.37MiB / 13.59GiB   0.66%     511kB / 783kB   21.7MB / 19.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        19.41%    322.6MiB / 13.59GiB   2.32%     0B / 0B         0B / 14.9MB       162
-4e3dbff0ef98   dreamy_agnesi       0.05%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.60%     92.37MiB / 13.59GiB   0.66%     512kB / 783kB   21.7MB / 19.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        53.10%    299.2MiB / 13.59GiB   2.15%     0B / 0B         0B / 17.7MB       165
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.65%     92.37MiB / 13.59GiB   0.66%     514kB / 785kB   21.7MB / 19.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        41.02%    300.7MiB / 13.59GiB   2.16%     0B / 0B         0B / 17.7MB       164
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.54%     92.37MiB / 13.59GiB   0.66%     515kB / 785kB   21.7MB / 19.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        36.44%    300.5MiB / 13.59GiB   2.16%     0B / 0B         0B / 17.7MB       164
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.72%     92.37MiB / 13.59GiB   0.66%     517kB / 786kB   21.7MB / 19.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        36.95%    301.4MiB / 13.59GiB   2.17%     0B / 0B         0B / 20.4MB       164
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.65%     92.37MiB / 13.59GiB   0.66%     519kB / 787kB   21.7MB / 19.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        43.36%    299MiB / 13.59GiB     2.15%     0B / 0B         0B / 20.4MB       164
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.60%     92.37MiB / 13.59GiB   0.66%     520kB / 787kB   21.7MB / 19.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        65.90%    286.8MiB / 13.59GiB   2.06%     0B / 0B         0B / 20.5MB       161
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.70%     92.37MiB / 13.59GiB   0.66%     522kB / 787kB   21.7MB / 19.6MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        125.91%   348.6MiB / 13.59GiB   2.51%     0B / 0B         0B / 20.5MB       161
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.62%     92.37MiB / 13.59GiB   0.66%     524kB / 789kB   21.7MB / 19.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        33.06%    309.6MiB / 13.59GiB   2.22%     0B / 0B         0B / 22.3MB       165
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.57%     92.37MiB / 13.59GiB   0.66%     526kB / 789kB   21.7MB / 19.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        46.41%    312.6MiB / 13.59GiB   2.25%     0B / 0B         0B / 22.3MB       163
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.74%     92.37MiB / 13.59GiB   0.66%     528kB / 790kB   21.7MB / 19.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        42.19%    317.5MiB / 13.59GiB   2.28%     0B / 0B         0B / 25MB         161
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.60%     92.37MiB / 13.59GiB   0.66%     529kB / 791kB   21.7MB / 19.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        42.01%    314.9MiB / 13.59GiB   2.26%     0B / 0B         0B / 25MB         161
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.37MiB / 13.59GiB   0.66%     531kB / 791kB   21.7MB / 19.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        55.97%    310.9MiB / 13.59GiB   2.23%     0B / 0B         0B / 25MB         161
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.71%     92.37MiB / 13.59GiB   0.66%     533kB / 792kB   21.7MB / 19.8MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        29.33%    321.5MiB / 13.59GiB   2.31%     0B / 0B         0B / 27.7MB       161
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.70%     92.37MiB / 13.59GiB   0.66%     534kB / 793kB   21.7MB / 19.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        42.82%    331MiB / 13.59GiB     2.38%     0B / 0B         0B / 27.8MB       166
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.50%     92.37MiB / 13.59GiB   0.66%     536kB / 793kB   21.7MB / 19.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        60.74%    390MiB / 13.59GiB     2.80%     0B / 0B         0B / 27.9MB       200
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.82%     92.36MiB / 13.59GiB   0.66%     539kB / 795kB   21.7MB / 19.9MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        44.78%    374.2MiB / 13.59GiB   2.69%     0B / 0B         0B / 27.9MB       201
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.57%     92.37MiB / 13.59GiB   0.66%     540kB / 795kB   21.7MB / 20.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        69.70%    361.9MiB / 13.59GiB   2.60%     0B / 0B         0B / 30.6MB       201
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.64%     92.36MiB / 13.59GiB   0.66%     542kB / 795kB   21.7MB / 20.1MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        35.58%    357.1MiB / 13.59GiB   2.57%     0B / 0B         0B / 30.6MB       201
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.06%     92.39MiB / 13.59GiB   0.66%     544kB / 797kB   21.7MB / 20.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        31.58%    357.2MiB / 13.59GiB   2.57%     0B / 0B         0B / 30.7MB       201
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.72%     92.37MiB / 13.59GiB   0.66%     546kB / 797kB   21.7MB / 20.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        36.64%    357.3MiB / 13.59GiB   2.57%     0B / 0B         0B / 33.4MB       201
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.72%     92.37MiB / 13.59GiB   0.66%     548kB / 798kB   21.7MB / 20.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        23.26%    362.2MiB / 13.59GiB   2.60%     0B / 0B         0B / 33.5MB       202
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.41%     92.37MiB / 13.59GiB   0.66%     549kB / 799kB   21.7MB / 20.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        41.31%    386.3MiB / 13.59GiB   2.78%     0B / 0B         0B / 33.5MB       215
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.67%     92.37MiB / 13.59GiB   0.66%     550kB / 799kB   21.7MB / 20.2MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        64.85%    388.4MiB / 13.59GiB   2.79%     0B / 0B         0B / 36.3MB       215
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.84%     92.37MiB / 13.59GiB   0.66%     553kB / 800kB   21.7MB / 20.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        29.04%    388MiB / 13.59GiB     2.79%     0B / 0B         0B / 36.3MB       214
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.65%     92.37MiB / 13.59GiB   0.66%     554kB / 801kB   21.7MB / 20.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        43.45%    385.6MiB / 13.59GiB   2.77%     0B / 0B         0B / 36.3MB       214
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.71%     92.37MiB / 13.59GiB   0.66%     556kB / 801kB   21.7MB / 20.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        32.36%    388MiB / 13.59GiB     2.79%     0B / 0B         0B / 38.5MB       214
-4e3dbff0ef98   dreamy_agnesi       0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.55%     92.37MiB / 13.59GiB   0.66%     558kB / 802kB   21.7MB / 20.3MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        56.67%    388MiB / 13.59GiB     2.79%     0B / 0B         0B / 38.6MB       214
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.53%     92.37MiB / 13.59GiB   0.66%     559kB / 803kB   21.7MB / 20.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        32.18%    398.5MiB / 13.59GiB   2.86%     0B / 0B         0B / 38.7MB       214
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.72%     92.37MiB / 13.59GiB   0.66%     561kB / 803kB   21.7MB / 20.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        35.48%    416.9MiB / 13.59GiB   3.00%     0B / 0B         0B / 41.4MB       214
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.32MiB / 13.59GiB    0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.37MiB / 13.59GiB   0.66%     563kB / 804kB   21.7MB / 20.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        56.94%    409.1MiB / 13.59GiB   2.94%     0B / 0B         0B / 41.4MB       213
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.72%     92.38MiB / 13.59GiB   0.66%     565kB / 805kB   21.7MB / 20.4MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        56.40%    407MiB / 13.59GiB     2.92%     0B / 0B         0B / 41.5MB       213
-4e3dbff0ef98   dreamy_agnesi       0.06%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.76%     92.38MiB / 13.59GiB   0.66%     567kB / 806kB   21.7MB / 20.5MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        28.79%    406MiB / 13.59GiB     2.92%     0B / 0B         0B / 44.2MB       213
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.62%     92.38MiB / 13.59GiB   0.66%     569kB / 807kB   21.7MB / 20.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        33.40%    405.6MiB / 13.59GiB   2.91%     0B / 0B         0B / 44.2MB       213
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.66%     92.38MiB / 13.59GiB   0.66%     570kB / 807kB   21.7MB / 20.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        34.21%    405.3MiB / 13.59GiB   2.91%     0B / 0B         0B / 44.2MB       213
-4e3dbff0ef98   dreamy_agnesi       0.05%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.69%     92.38MiB / 13.59GiB   0.66%     572kB / 808kB   21.7MB / 20.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        2.03%     404MiB / 13.59GiB     2.90%     0B / 0B         0B / 44.2MB       213
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.332MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   1.19%     92.38MiB / 13.59GiB   0.66%     573kB / 809kB   21.7MB / 20.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        11.55%    389.2MiB / 13.59GiB   2.80%     0B / 0B         0B / 44.2MB       211
-4e3dbff0ef98   dreamy_agnesi       0.04%     5.332MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B           5
-32a44ec76e17   mongo_destination   0.59%     92.38MiB / 13.59GiB   0.66%     576kB / 809kB   21.7MB / 20.7MB   36
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O         PIDS
-4b863b3e01e7   firefox-60.0        3.80%     385.4MiB / 13.59GiB   2.77%     0B / 0B         0B / 44.2MB       209
-32a44ec76e17   mongo_destination   0.57%     92.35MiB / 13.59GiB   0.66%     577kB / 811kB   21.7MB / 20.7MB   35
+CONTAINER_ID   NAME                CPU_%     MEM_USAGE/LIMIT     MEM_%     NET_I/O         BLOCK_I/O         PIDS
+4b863b3e01e7   firefox-60.0        91.95    356.7MiB/13.59GiB   2.56     0B/0B         0B/14.7MB       157
+4e3dbff0ef98   dreamy_agnesi       0.03     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.37MiB/13.59GiB   0.66     508kB/783kB   21.7MB/19.3MB   36
+4b863b3e01e7   firefox-60.0        100.40   372.9MiB/13.59GiB   2.68     0B/0B         0B/14.8MB       161
+4e3dbff0ef98   dreamy_agnesi       0.05     5.297MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.37MiB/13.59GiB   0.66     511kB/783kB   21.7MB/19.5MB   36
+4b863b3e01e7   firefox-60.0        19.41    322.6MiB/13.59GiB   2.32     0B/0B         0B/14.9MB       162
+4e3dbff0ef98   dreamy_agnesi       0.05     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.60     92.37MiB/13.59GiB   0.66     512kB/783kB   21.7MB/19.5MB   36
+4b863b3e01e7   firefox-60.0        53.10    299.2MiB/13.59GiB   2.15     0B/0B         0B/17.7MB       165
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.65     92.37MiB/13.59GiB   0.66     514kB/785kB   21.7MB/19.5MB   36
+4b863b3e01e7   firefox-60.0        41.02    300.7MiB/13.59GiB   2.16     0B/0B         0B/17.7MB       164
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.54     92.37MiB/13.59GiB   0.66     515kB/785kB   21.7MB/19.5MB   36
+4b863b3e01e7   firefox-60.0        36.44    300.5MiB/13.59GiB   2.16     0B/0B         0B/17.7MB       164
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.72     92.37MiB/13.59GiB   0.66     517kB/786kB   21.7MB/19.6MB   36
+4b863b3e01e7   firefox-60.0        36.95    301.4MiB/13.59GiB   2.17     0B/0B         0B/20.4MB       164
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.65     92.37MiB/13.59GiB   0.66     519kB/787kB   21.7MB/19.6MB   36
+4b863b3e01e7   firefox-60.0        43.36    299MiB/13.59GiB     2.15     0B/0B         0B/20.4MB       164
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.60     92.37MiB/13.59GiB   0.66     520kB/787kB   21.7MB/19.6MB   36
+4b863b3e01e7   firefox-60.0        65.90    286.8MiB/13.59GiB   2.06     0B/0B         0B/20.5MB       161
+4e3dbff0ef98   dreamy_agnesi       0.04     5.301MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.70     92.37MiB/13.59GiB   0.66     522kB/787kB   21.7MB/19.6MB   36
+4b863b3e01e7   firefox-60.0        125.91   348.6MiB/13.59GiB   2.51     0B/0B         0B/20.5MB       161
+4e3dbff0ef98   dreamy_agnesi       0.03     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.62     92.37MiB/13.59GiB   0.66     524kB/789kB   21.7MB/19.7MB   36
+4b863b3e01e7   firefox-60.0        33.06    309.6MiB/13.59GiB   2.22     0B/0B         0B/22.3MB       165
+4e3dbff0ef98   dreamy_agnesi       0.04     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.57     92.37MiB/13.59GiB   0.66     526kB/789kB   21.7MB/19.7MB   36
+4b863b3e01e7   firefox-60.0        46.41    312.6MiB/13.59GiB   2.25     0B/0B         0B/22.3MB       163
+4e3dbff0ef98   dreamy_agnesi       0.03     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.74     92.37MiB/13.59GiB   0.66     528kB/790kB   21.7MB/19.7MB   36
+4b863b3e01e7   firefox-60.0        42.19    317.5MiB/13.59GiB   2.28     0B/0B         0B/25MB         161
+4e3dbff0ef98   dreamy_agnesi       0.04     5.305MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.60     92.37MiB/13.59GiB   0.66     529kB/791kB   21.7MB/19.8MB   36
+4b863b3e01e7   firefox-60.0        42.01    314.9MiB/13.59GiB   2.26     0B/0B         0B/25MB         161
+4e3dbff0ef98   dreamy_agnesi       0.04     5.309MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.37MiB/13.59GiB   0.66     531kB/791kB   21.7MB/19.8MB   36
+4b863b3e01e7   firefox-60.0        55.97    310.9MiB/13.59GiB   2.23     0B/0B         0B/25MB         161
+4e3dbff0ef98   dreamy_agnesi       0.04     5.309MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.71     92.37MiB/13.59GiB   0.66     533kB/792kB   21.7MB/19.8MB   36
+4b863b3e01e7   firefox-60.0        29.33    321.5MiB/13.59GiB   2.31     0B/0B         0B/27.7MB       161
+4e3dbff0ef98   dreamy_agnesi       0.03     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.70     92.37MiB/13.59GiB   0.66     534kB/793kB   21.7MB/19.9MB   36
+4b863b3e01e7   firefox-60.0        42.82    331MiB/13.59GiB     2.38     0B/0B         0B/27.8MB       166
+4e3dbff0ef98   dreamy_agnesi       0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.50     92.37MiB/13.59GiB   0.66     536kB/793kB   21.7MB/19.9MB   36
+4b863b3e01e7   firefox-60.0        60.74    390MiB/13.59GiB     2.80     0B/0B         0B/27.9MB       200
+4e3dbff0ef98   dreamy_agnesi       0.04     5.312MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.82     92.36MiB/13.59GiB   0.66     539kB/795kB   21.7MB/19.9MB   36
+4b863b3e01e7   firefox-60.0        44.78    374.2MiB/13.59GiB   2.69     0B/0B         0B/27.9MB       201
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.57     92.37MiB/13.59GiB   0.66     540kB/795kB   21.7MB/20.1MB   36
+4b863b3e01e7   firefox-60.0        69.70    361.9MiB/13.59GiB   2.60     0B/0B         0B/30.6MB       201
+4e3dbff0ef98   dreamy_agnesi       0.03     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.64     92.36MiB/13.59GiB   0.66     542kB/795kB   21.7MB/20.1MB   36
+4b863b3e01e7   firefox-60.0        35.58    357.1MiB/13.59GiB   2.57     0B/0B         0B/30.6MB       201
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.06     92.39MiB/13.59GiB   0.66     544kB/797kB   21.7MB/20.2MB   36
+4b863b3e01e7   firefox-60.0        31.58    357.2MiB/13.59GiB   2.57     0B/0B         0B/30.7MB       201
+4e3dbff0ef98   dreamy_agnesi       0.03     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.72     92.37MiB/13.59GiB   0.66     546kB/797kB   21.7MB/20.2MB   36
+4b863b3e01e7   firefox-60.0        36.64    357.3MiB/13.59GiB   2.57     0B/0B         0B/33.4MB       201
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.72     92.37MiB/13.59GiB   0.66     548kB/798kB   21.7MB/20.2MB   36
+4b863b3e01e7   firefox-60.0        23.26    362.2MiB/13.59GiB   2.60     0B/0B         0B/33.5MB       202
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.41     92.37MiB/13.59GiB   0.66     549kB/799kB   21.7MB/20.2MB   36
+4b863b3e01e7   firefox-60.0        41.31    386.3MiB/13.59GiB   2.78     0B/0B         0B/33.5MB       215
+4e3dbff0ef98   dreamy_agnesi       0.03     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.67     92.37MiB/13.59GiB   0.66     550kB/799kB   21.7MB/20.2MB   36
+4b863b3e01e7   firefox-60.0        64.85    388.4MiB/13.59GiB   2.79     0B/0B         0B/36.3MB       215
+4e3dbff0ef98   dreamy_agnesi       0.03     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.84     92.37MiB/13.59GiB   0.66     553kB/800kB   21.7MB/20.3MB   36
+4b863b3e01e7   firefox-60.0        29.04    388MiB/13.59GiB     2.79     0B/0B         0B/36.3MB       214
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.65     92.37MiB/13.59GiB   0.66     554kB/801kB   21.7MB/20.3MB   36
+4b863b3e01e7   firefox-60.0        43.45    385.6MiB/13.59GiB   2.77     0B/0B         0B/36.3MB       214
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.71     92.37MiB/13.59GiB   0.66     556kB/801kB   21.7MB/20.3MB   36
+4b863b3e01e7   firefox-60.0        32.36    388MiB/13.59GiB     2.79     0B/0B         0B/38.5MB       214
+4e3dbff0ef98   dreamy_agnesi       0.03     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.55     92.37MiB/13.59GiB   0.66     558kB/802kB   21.7MB/20.3MB   36
+4b863b3e01e7   firefox-60.0        56.67    388MiB/13.59GiB     2.79     0B/0B         0B/38.6MB       214
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.53     92.37MiB/13.59GiB   0.66     559kB/803kB   21.7MB/20.4MB   36
+4b863b3e01e7   firefox-60.0        32.18    398.5MiB/13.59GiB   2.86     0B/0B         0B/38.7MB       214
+4e3dbff0ef98   dreamy_agnesi       0.04     5.316MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.72     92.37MiB/13.59GiB   0.66     561kB/803kB   21.7MB/20.4MB   36
+4b863b3e01e7   firefox-60.0        35.48    416.9MiB/13.59GiB   3.00     0B/0B         0B/41.4MB       214
+4e3dbff0ef98   dreamy_agnesi       0.04     5.32MiB/13.59GiB    0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.37MiB/13.59GiB   0.66     563kB/804kB   21.7MB/20.4MB   36
+4b863b3e01e7   firefox-60.0        56.94    409.1MiB/13.59GiB   2.94     0B/0B         0B/41.4MB       213
+4e3dbff0ef98   dreamy_agnesi       0.04     5.324MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.72     92.38MiB/13.59GiB   0.66     565kB/805kB   21.7MB/20.4MB   36
+4b863b3e01e7   firefox-60.0        56.40    407MiB/13.59GiB     2.92     0B/0B         0B/41.5MB       213
+4e3dbff0ef98   dreamy_agnesi       0.06     5.324MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.76     92.38MiB/13.59GiB   0.66     567kB/806kB   21.7MB/20.5MB   36
+4b863b3e01e7   firefox-60.0        28.79    406MiB/13.59GiB     2.92     0B/0B         0B/44.2MB       213
+4e3dbff0ef98   dreamy_agnesi       0.04     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.62     92.38MiB/13.59GiB   0.66     569kB/807kB   21.7MB/20.7MB   36
+4b863b3e01e7   firefox-60.0        33.40    405.6MiB/13.59GiB   2.91     0B/0B         0B/44.2MB       213
+4e3dbff0ef98   dreamy_agnesi       0.04     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.66     92.38MiB/13.59GiB   0.66     570kB/807kB   21.7MB/20.7MB   36
+4b863b3e01e7   firefox-60.0        34.21    405.3MiB/13.59GiB   2.91     0B/0B         0B/44.2MB       213
+4e3dbff0ef98   dreamy_agnesi       0.05     5.328MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.69     92.38MiB/13.59GiB   0.66     572kB/808kB   21.7MB/20.7MB   36
+4b863b3e01e7   firefox-60.0        2.03     404MiB/13.59GiB     2.90     0B/0B         0B/44.2MB       213
+4e3dbff0ef98   dreamy_agnesi       0.04     5.332MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   1.19     92.38MiB/13.59GiB   0.66     573kB/809kB   21.7MB/20.7MB   36
+4b863b3e01e7   firefox-60.0        11.55    389.2MiB/13.59GiB   2.80     0B/0B         0B/44.2MB       211
+4e3dbff0ef98   dreamy_agnesi       0.04     5.332MiB/13.59GiB   0.04     0B/0B         0B/0B           5
+32a44ec76e17   mongo_destination   0.59     92.38MiB/13.59GiB   0.66     576kB/809kB   21.7MB/20.7MB   36
+4b863b3e01e7   firefox-60.0        3.80     385.4MiB/13.59GiB   2.77     0B/0B         0B/44.2MB       209
+32a44ec76e17   mongo_destination   0.57     92.35MiB/13.59GiB   0.66     577kB/811kB   21.7MB/20.7MB   35
