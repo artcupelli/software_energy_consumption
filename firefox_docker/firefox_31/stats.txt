@@ -1,0 +1,159 @@
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        84.07%    147.8MiB / 13.59GiB   1.06%     0B / 0B       0B / 9.42MB       41
+7a18bb48d242   objective_hellman   0.04%     5.285MiB / 13.59GiB   0.04%     0B / 0B       0B / 0B           5
+32a44ec76e17   mongo_destination   0.54%     92.38MiB / 13.59GiB   0.66%     588kB / 1MB   21.7MB / 21.4MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        76.18%    154.5MiB / 13.59GiB   1.11%     0B / 0B       0B / 9.44MB       41
+7a18bb48d242   objective_hellman   0.03%     5.285MiB / 13.59GiB   0.04%     0B / 0B       0B / 0B           5
+32a44ec76e17   mongo_destination   0.40%     92.38MiB / 13.59GiB   0.66%     589kB / 1MB   21.7MB / 21.4MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        37.58%    148.3MiB / 13.59GiB   1.07%     0B / 0B       0B / 21.2MB       45
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B       0B / 0B           5
+32a44ec76e17   mongo_destination   1.97%     92.38MiB / 13.59GiB   0.66%     591kB / 1MB   21.7MB / 21.4MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        22.76%    139.6MiB / 13.59GiB   1.00%     0B / 0B          0B / 22.2MB       45
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.52%     92.38MiB / 13.59GiB   0.66%     593kB / 1.01MB   21.7MB / 21.4MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        22.92%    137.8MiB / 13.59GiB   0.99%     0B / 0B          0B / 24.2MB       45
+7a18bb48d242   objective_hellman   0.03%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.66%     92.38MiB / 13.59GiB   0.66%     595kB / 1.01MB   21.7MB / 21.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        19.10%    135.4MiB / 13.59GiB   0.97%     0B / 0B          0B / 26.3MB       45
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.64%     92.38MiB / 13.59GiB   0.66%     596kB / 1.01MB   21.7MB / 21.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        20.29%    136.2MiB / 13.59GiB   0.98%     0B / 0B          0B / 28.3MB       45
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.65%     92.38MiB / 13.59GiB   0.66%     598kB / 1.01MB   21.7MB / 21.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        23.92%    136.8MiB / 13.59GiB   0.98%     0B / 0B          0B / 30.4MB       45
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.64%     92.38MiB / 13.59GiB   0.66%     600kB / 1.01MB   21.7MB / 21.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        28.32%    136.3MiB / 13.59GiB   0.98%     0B / 0B          0B / 31.6MB       44
+7a18bb48d242   objective_hellman   0.04%     5.289MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.77%     92.38MiB / 13.59GiB   0.66%     602kB / 1.01MB   21.7MB / 21.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        19.70%    137.5MiB / 13.59GiB   0.99%     0B / 0B          0B / 33.7MB       44
+7a18bb48d242   objective_hellman   0.05%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.64%     92.38MiB / 13.59GiB   0.66%     603kB / 1.01MB   21.7MB / 21.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        21.66%    134.9MiB / 13.59GiB   0.97%     0B / 0B          0B / 35.7MB       44
+7a18bb48d242   objective_hellman   0.04%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   1.21%     92.38MiB / 13.59GiB   0.66%     605kB / 1.01MB   21.7MB / 21.8MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        12.58%    129.8MiB / 13.59GiB   0.93%     0B / 0B          0B / 36.8MB       44
+7a18bb48d242   objective_hellman   0.04%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.56%     92.38MiB / 13.59GiB   0.66%     607kB / 1.01MB   21.7MB / 21.8MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        23.18%    131.6MiB / 13.59GiB   0.95%     0B / 0B          0B / 38.8MB       44
+7a18bb48d242   objective_hellman   0.03%     5.293MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.65%     92.38MiB / 13.59GiB   0.66%     609kB / 1.01MB   21.7MB / 21.8MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        23.50%    131.3MiB / 13.59GiB   0.94%     0B / 0B          0B / 40.9MB       44
+7a18bb48d242   objective_hellman   0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.68%     92.38MiB / 13.59GiB   0.66%     611kB / 1.01MB   21.7MB / 21.9MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        57.93%    158.5MiB / 13.59GiB   1.14%     0B / 0B          0B / 41.9MB       67
+7a18bb48d242   objective_hellman   0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.63%     92.38MiB / 13.59GiB   0.66%     612kB / 1.01MB   21.7MB / 21.9MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        46.46%    178.4MiB / 13.59GiB   1.28%     0B / 0B          0B / 44.7MB       67
+7a18bb48d242   objective_hellman   0.06%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.62%     92.38MiB / 13.59GiB   0.66%     614kB / 1.01MB   21.7MB / 21.9MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+544e23c4b20d   firefox-31.0        20.75%    174.5MiB / 13.59GiB   1.25%     0B / 0B          0B / 45.7MB     67
+7a18bb48d242   objective_hellman   0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
+32a44ec76e17   mongo_destination   0.66%     92.38MiB / 13.59GiB   0.66%     616kB / 1.01MB   21.7MB / 22MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+544e23c4b20d   firefox-31.0        22.28%    171.1MiB / 13.59GiB   1.23%     0B / 0B          0B / 47.8MB     67
+7a18bb48d242   objective_hellman   0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
+32a44ec76e17   mongo_destination   0.67%     92.38MiB / 13.59GiB   0.66%     618kB / 1.02MB   21.7MB / 22MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+544e23c4b20d   firefox-31.0        26.37%    171.2MiB / 13.59GiB   1.23%     0B / 0B          0B / 49.7MB     67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B         5
+32a44ec76e17   mongo_destination   0.64%     92.38MiB / 13.59GiB   0.66%     619kB / 1.02MB   21.7MB / 22MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        24.75%    170.8MiB / 13.59GiB   1.23%     0B / 0B          0B / 51.8MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.74%     92.38MiB / 13.59GiB   0.66%     621kB / 1.02MB   21.7MB / 22.1MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        25.20%    168.4MiB / 13.59GiB   1.21%     0B / 0B          0B / 53.8MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.68%     92.38MiB / 13.59GiB   0.66%     623kB / 1.02MB   21.7MB / 22.1MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        56.90%    176.2MiB / 13.59GiB   1.27%     0B / 0B          0B / 53.8MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.65%     92.38MiB / 13.59GiB   0.66%     624kB / 1.02MB   21.7MB / 22.1MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        31.28%    181.8MiB / 13.59GiB   1.31%     0B / 0B          0B / 56.2MB       68
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.72%     92.38MiB / 13.59GiB   0.66%     627kB / 1.02MB   21.7MB / 22.1MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        26.71%    179.3MiB / 13.59GiB   1.29%     0B / 0B          0B / 57.2MB       67
+7a18bb48d242   objective_hellman   0.05%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.65%     92.38MiB / 13.59GiB   0.66%     628kB / 1.02MB   21.7MB / 22.2MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        15.99%    173MiB / 13.59GiB     1.24%     0B / 0B          0B / 59.3MB       67
+7a18bb48d242   objective_hellman   0.03%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   1.58%     92.38MiB / 13.59GiB   0.66%     630kB / 1.02MB   21.7MB / 22.2MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        21.00%    171MiB / 13.59GiB     1.23%     0B / 0B          0B / 61.3MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.61%     92.38MiB / 13.59GiB   0.66%     632kB / 1.02MB   21.7MB / 22.2MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        19.41%    169.6MiB / 13.59GiB   1.22%     0B / 0B          0B / 63.4MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.63%     92.38MiB / 13.59GiB   0.66%     633kB / 1.02MB   21.7MB / 22.2MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        15.83%    168.8MiB / 13.59GiB   1.21%     0B / 0B          0B / 65.4MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.74%     92.39MiB / 13.59GiB   0.66%     636kB / 1.02MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        24.53%    169.1MiB / 13.59GiB   1.21%     0B / 0B          0B / 67.5MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.64%     92.4MiB / 13.59GiB    0.66%     637kB / 1.02MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        50.50%    173.8MiB / 13.59GiB   1.25%     0B / 0B          0B / 67.5MB       67
+7a18bb48d242   objective_hellman   0.03%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.51%     92.39MiB / 13.59GiB   0.66%     639kB / 1.02MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        36.55%    183MiB / 13.59GiB     1.32%     0B / 0B          0B / 67.5MB       67
+7a18bb48d242   objective_hellman   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.58%     92.39MiB / 13.59GiB   0.66%     640kB / 1.02MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        24.31%    183MiB / 13.59GiB     1.31%     0B / 0B          0B / 69.9MB       67
+7a18bb48d242   objective_hellman   0.04%     5.309MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.69%     92.4MiB / 13.59GiB    0.66%     642kB / 1.03MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        17.29%    174.7MiB / 13.59GiB   1.26%     0B / 0B          0B / 71.9MB       67
+7a18bb48d242   objective_hellman   0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.56%     92.39MiB / 13.59GiB   0.66%     644kB / 1.03MB   21.7MB / 22.5MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        30.02%    175MiB / 13.59GiB     1.26%     0B / 0B          0B / 72.9MB       67
+7a18bb48d242   objective_hellman   0.05%     5.312MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.68%     92.39MiB / 13.59GiB   0.66%     646kB / 1.03MB   21.7MB / 22.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        18.70%    172.2MiB / 13.59GiB   1.24%     0B / 0B          0B / 76MB         67
+7a18bb48d242   objective_hellman   0.05%     5.316MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.65%     92.4MiB / 13.59GiB    0.66%     647kB / 1.03MB   21.7MB / 22.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        13.30%    168.3MiB / 13.59GiB   1.21%     0B / 0B          0B / 77MB         67
+7a18bb48d242   objective_hellman   0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   1.49%     92.4MiB / 13.59GiB    0.66%     649kB / 1.03MB   21.7MB / 22.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        21.00%    168.2MiB / 13.59GiB   1.21%     0B / 0B          0B / 79MB         67
+7a18bb48d242   objective_hellman   0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.70%     92.39MiB / 13.59GiB   0.66%     651kB / 1.03MB   21.7MB / 22.6MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        2.08%     168.2MiB / 13.59GiB   1.21%     0B / 0B          0B / 79MB         67
+7a18bb48d242   objective_hellman   0.05%     5.32MiB / 13.59GiB    0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.70%     92.4MiB / 13.59GiB    0.66%     653kB / 1.03MB   21.7MB / 22.7MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        2.97%     167.7MiB / 13.59GiB   1.21%     0B / 0B          0B / 79MB         67
+7a18bb48d242   objective_hellman   0.03%     5.32MiB / 13.59GiB    0.04%     0B / 0B          0B / 0B           5
+32a44ec76e17   mongo_destination   0.68%     92.39MiB / 13.59GiB   0.66%     654kB / 1.03MB   21.7MB / 22.7MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+544e23c4b20d   firefox-31.0        0.05%     166.6MiB / 13.59GiB   1.20%     0B / 0B          0B / 79MB         66
+32a44ec76e17   mongo_destination   0.47%     92.39MiB / 13.59GiB   0.66%     656kB / 1.03MB   21.7MB / 22.7MB   36
