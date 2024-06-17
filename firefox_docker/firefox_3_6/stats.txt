@@ -1,0 +1,190 @@
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+c5fa2cd5df1f   flamboyant_dubinsky   0.05%     5.293MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.72%     72.02MiB / 13.59GiB   0.52%     127kB / 112kB   147kB / 4.64MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           68.82%    24.2MiB / 13.59GiB    0.17%     0B / 0B         0B / 516kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.293MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.52%     72.02MiB / 13.59GiB   0.52%     128kB / 112kB   147kB / 4.65MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           60.02%    25.35MiB / 13.59GiB   0.18%     0B / 0B         0B / 516kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.54%     72.02MiB / 13.59GiB   0.52%     131kB / 113kB   147kB / 4.69MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           83.95%    29.7MiB / 13.59GiB    0.21%     0B / 0B         0B / 901kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.61%     72.02MiB / 13.59GiB   0.52%     133kB / 114kB   147kB / 4.71MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           78.50%    31.43MiB / 13.59GiB   0.23%     0B / 0B         0B / 967kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.55%     72.02MiB / 13.59GiB   0.52%     134kB / 114kB   147kB / 4.72MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           83.72%    32.12MiB / 13.59GiB   0.23%     0B / 0B         0B / 967kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.54%     72.04MiB / 13.59GiB   0.52%     136kB / 115kB   147kB / 4.76MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           69.03%    33.61MiB / 13.59GiB   0.24%     0B / 0B         0B / 971kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.05%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.59%     72.04MiB / 13.59GiB   0.52%     138kB / 116kB   147kB / 4.78MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           81.19%    33.73MiB / 13.59GiB   0.24%     0B / 0B         0B / 971kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.297MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.58%     72.04MiB / 13.59GiB   0.52%     139kB / 117kB   147kB / 4.79MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           73.90%    33.95MiB / 13.59GiB   0.24%     0B / 0B         0B / 971kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.03MiB / 13.59GiB   0.52%     141kB / 117kB   147kB / 4.83MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           94.94%    34.14MiB / 13.59GiB   0.25%     0B / 0B         0B / 979kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.67%     72.03MiB / 13.59GiB   0.52%     143kB / 118kB   147kB / 4.85MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           90.27%    34.01MiB / 13.59GiB   0.24%     0B / 0B         0B / 979kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     1.41%     72.04MiB / 13.59GiB   0.52%     145kB / 119kB   147kB / 4.89MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           79.68%    34.02MiB / 13.59GiB   0.24%     0B / 0B         0B / 999kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.56%     72.04MiB / 13.59GiB   0.52%     146kB / 119kB   147kB / 4.91MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           81.87%    34.52MiB / 13.59GiB   0.25%     0B / 0B         0B / 999kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.301MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.55%     72.04MiB / 13.59GiB   0.52%     148kB / 120kB   147kB / 4.92MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           81.64%    34.31MiB / 13.59GiB   0.25%     0B / 0B         0B / 999kB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.305MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.55%     72.04MiB / 13.59GiB   0.52%     150kB / 121kB   147kB / 5.07MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           97.33%    34.59MiB / 13.59GiB   0.25%     0B / 0B         0B / 1.01MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.05%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.65%     72.04MiB / 13.59GiB   0.52%     152kB / 122kB   147kB / 5.09MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
+7d36cf2bab06   firefox-3.6           90.07%    35.52MiB / 13.59GiB   0.26%     0B / 0B         0B / 1.04MB     16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
+32a44ec76e17   mongo_destination     0.56%     72.04MiB / 13.59GiB   0.52%     153kB / 122kB   147kB / 5.1MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           91.85%    35.55MiB / 13.59GiB   0.26%     0B / 0B         0B / 1.04MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.309MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.56%     72.05MiB / 13.59GiB   0.52%     156kB / 123kB   147kB / 5.15MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           89.04%    35.46MiB / 13.59GiB   0.25%     0B / 0B         0B / 1.05MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.54%     72.05MiB / 13.59GiB   0.52%     157kB / 124kB   147kB / 5.16MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           93.02%    35.59MiB / 13.59GiB   0.26%     0B / 0B         0B / 1.05MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.05MiB / 13.59GiB   0.52%     159kB / 125kB   147kB / 5.18MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           80.92%    36.85MiB / 13.59GiB   0.26%     0B / 0B         0B / 1.06MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.06MiB / 13.59GiB   0.52%     161kB / 125kB   147kB / 5.22MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           96.28%    37.96MiB / 13.59GiB   0.27%     0B / 0B         0B / 1.08MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.52%     72.05MiB / 13.59GiB   0.52%     163kB / 126kB   147kB / 5.24MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           96.53%    37.98MiB / 13.59GiB   0.27%     0B / 0B         0B / 1.08MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.65%     72.05MiB / 13.59GiB   0.52%     164kB / 126kB   147kB / 5.26MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
+7d36cf2bab06   firefox-3.6           82.18%    38.16MiB / 13.59GiB   0.27%     0B / 0B         0B / 1.08MB     16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
+32a44ec76e17   mongo_destination     0.55%     72.05MiB / 13.59GiB   0.52%     167kB / 127kB   147kB / 5.3MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           95.31%    38.52MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.09MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.05MiB / 13.59GiB   0.52%     168kB / 128kB   147kB / 5.31MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           72.88%    38.54MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.09MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.58%     72.06MiB / 13.59GiB   0.52%     170kB / 128kB   147kB / 5.33MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           84.76%    38.51MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.09MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.47%     72.06MiB / 13.59GiB   0.52%     171kB / 129kB   147kB / 5.37MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           94.56%    38.54MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.11MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.54%     72.05MiB / 13.59GiB   0.52%     173kB / 130kB   147kB / 5.39MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           65.95%    38.55MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.13MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     1.53%     72.05MiB / 13.59GiB   0.52%     175kB / 130kB   147kB / 5.44MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           61.15%    38.61MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.16MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.65%     72.05MiB / 13.59GiB   0.52%     177kB / 132kB   147kB / 5.45MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           94.42%    38.67MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.16MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.312MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.46%     72.05MiB / 13.59GiB   0.52%     179kB / 132kB   147kB / 5.47MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           91.43%    38.68MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.16MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.58%     72.05MiB / 13.59GiB   0.52%     181kB / 133kB   147kB / 5.63MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           93.21%    38.68MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.18MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.316MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.53%     72.05MiB / 13.59GiB   0.52%     183kB / 134kB   147kB / 5.64MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           88.33%    38.68MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.18MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.32MiB / 13.59GiB    0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.58%     72.06MiB / 13.59GiB   0.52%     184kB / 135kB   147kB / 5.66MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           84.06%    38.7MiB / 13.59GiB    0.28%     0B / 0B         0B / 1.18MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.32MiB / 13.59GiB    0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.52%     72.05MiB / 13.59GiB   0.52%     186kB / 135kB   147kB / 5.71MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           73.19%    38.72MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.2MB       16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.61%     72.06MiB / 13.59GiB   0.52%     188kB / 136kB   147kB / 5.72MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           92.09%    38.76MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.32MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     1.57%     72.06MiB / 13.59GiB   0.52%     190kB / 137kB   147kB / 5.77MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           69.66%    38.77MiB / 13.59GiB   0.28%     0B / 0B         0B / 1.32MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.324MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.53%     72.05MiB / 13.59GiB   0.52%     191kB / 137kB   147kB / 5.78MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
+7d36cf2bab06   firefox-3.6           95.08%    42.32MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.35MB     16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B         5
+32a44ec76e17   mongo_destination     0.58%     72.05MiB / 13.59GiB   0.52%     193kB / 138kB   147kB / 5.8MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           84.08%    43.08MiB / 13.59GiB   0.31%     0B / 0B         0B / 1.38MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.56%     72.18MiB / 13.59GiB   0.52%     195kB / 138kB   147kB / 5.84MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           94.96%    43.28MiB / 13.59GiB   0.31%     0B / 0B         0B / 1.38MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.06MiB / 13.59GiB   0.52%     197kB / 140kB   147kB / 5.86MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           77.42%    43.64MiB / 13.59GiB   0.31%     0B / 0B         0B / 1.41MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.51%     72.06MiB / 13.59GiB   0.52%     198kB / 140kB   147kB / 5.87MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           79.88%    43.73MiB / 13.59GiB   0.31%     0B / 0B         0B / 1.41MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     1.70%     72.06MiB / 13.59GiB   0.52%     199kB / 140kB   147kB / 5.92MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           72.53%    43.79MiB / 13.59GiB   0.31%     0B / 0B         0B / 1.43MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.05%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.57%     72.06MiB / 13.59GiB   0.52%     202kB / 142kB   147kB / 5.94MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           78.05%    41.64MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.43MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.53%     72.06MiB / 13.59GiB   0.52%     204kB / 142kB   147kB / 5.95MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+7d36cf2bab06   firefox-3.6           84.61%    41.79MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.43MB   16
+c5fa2cd5df1f   flamboyant_dubinsky   0.04%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B       5
+32a44ec76e17   mongo_destination     0.55%     72.13MiB / 13.59GiB   0.52%     205kB / 143kB   147kB / 6MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           100.27%   41.84MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.46MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.328MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.56%     72.12MiB / 13.59GiB   0.52%     208kB / 144kB   147kB / 6.02MB   36
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+7d36cf2bab06   firefox-3.6           85.70%    41.86MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.46MB      16
+c5fa2cd5df1f   flamboyant_dubinsky   0.03%     5.332MiB / 13.59GiB   0.04%     0B / 0B         0B / 0B          5
+32a44ec76e17   mongo_destination     0.88%     72.13MiB / 13.59GiB   0.52%     209kB / 144kB   147kB / 6.15MB   36
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O       PIDS
+7d36cf2bab06   firefox-3.6         100.61%   41.84MiB / 13.59GiB   0.30%     0B / 0B         0B / 1.46MB     16
+32a44ec76e17   mongo_destination   0.57%     72.18MiB / 13.59GiB   0.52%     210kB / 144kB   147kB / 6.2MB   36
